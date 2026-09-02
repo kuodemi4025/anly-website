@@ -53,10 +53,9 @@ a {
 }
 
 .wordmark {
-  font-family: 'Fraunces', Georgia, serif;
-  font-size: 20px;
-  font-weight: 500;
-  letter-spacing: 0.01em;
+  height: 20px;
+  width: auto;
+  display: block;
 }
 
 .nav-link {
