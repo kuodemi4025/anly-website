@@ -11,7 +11,7 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="styles.css" />
 </head>
@@ -19,8 +19,8 @@
 
   <header class="nav">
     <div class="nav-inner">
-      <img class="nav-logo" src="assets/anly-logo-white.png" alt="Anly" />
-      <a class="nav-cta" href="#download">Get the app</a>
+      <span class="wordmark">Anly</span>
+      <a class="nav-link" href="#download">Get notified</a>
     </div>
   </header>
 
@@ -29,13 +29,13 @@
     <section class="hero">
       <div class="hero-inner">
         <div class="hero-copy">
-          <span class="pill">Coming soon</span>
-          <h1>Stay close to the&nbsp;people who matter.</h1>
+          <p class="eyebrow">Coming soon</p>
+          <h1>Stay close to<br />the people who matter.</h1>
           <p class="hero-sub">
             Living alone, traveling, or a time zone away from the people you love —
             Anly makes caring for each other effortless, no matter the distance.
           </p>
-          <a class="btn-primary" href="#download">Get notified at launch</a>
+          <a class="btn-outline" href="#download">Get notified at launch</a>
         </div>
         <div class="hero-art">
           <svg class="wally-svg" viewBox="0 0 100 118" role="img" aria-label="Wally, the Anly mascot">
@@ -44,11 +44,11 @@
                 <feGaussianBlur stdDeviation="4"/>
               </filter>
             </defs>
-            <ellipse cx="50" cy="110" rx="26" ry="6" fill="#000" opacity="0.28" filter="url(#heroShadow)"/>
-            <path d="M50,0 C56.26,3.62 88.07,23.33 92.29,34.61 C96.51,45.89 91.85,83.42 83.75,90.22 C75.65,97.02 38.00,95.10 27.5,88.97 C17.00,82.84 -2.08,51.56 -0.24,41.15 C1.60,30.74 35.91,10.82 42.19,5.68 C48.47,0.54 43.74,-3.62 50,0 Z" fill="#96bfea" stroke="#16213e" stroke-width="2.4"/>
-            <circle cx="37.75" cy="47" r="3.4" fill="#16213e"/>
-            <circle cx="62.25" cy="47" r="3.4" fill="#16213e"/>
-            <path d="M42,54.5 Q50,63.5 58,54.5" fill="none" stroke="#16213e" stroke-width="3.4" stroke-linecap="round"/>
+            <ellipse cx="50" cy="110" rx="26" ry="6" fill="#000" opacity="0.16" filter="url(#heroShadow)"/>
+            <path d="M50,0 C56.26,3.62 88.07,23.33 92.29,34.61 C96.51,45.89 91.85,83.42 83.75,90.22 C75.65,97.02 38.00,95.10 27.5,88.97 C17.00,82.84 -2.08,51.56 -0.24,41.15 C1.60,30.74 35.91,10.82 42.19,5.68 C48.47,0.54 43.74,-3.62 50,0 Z" fill="#a9c6ec" stroke="#141414" stroke-width="1.6"/>
+            <circle cx="37.75" cy="47" r="3.4" fill="#141414"/>
+            <circle cx="62.25" cy="47" r="3.4" fill="#141414"/>
+            <path d="M42,54.5 Q50,63.5 58,54.5" fill="none" stroke="#141414" stroke-width="2.6" stroke-linecap="round"/>
           </svg>
         </div>
       </div>
@@ -57,68 +57,25 @@
     <!-- How it works -->
     <section class="features" id="features">
       <h2>How Anly brings you closer</h2>
-      <div class="feature-grid">
-        <div class="feature-card">
-          <div class="feature-icon">
-            <svg viewBox="0 0 100 110" role="img" aria-label="Carer icon">
-              <path class="icon-heart" d="M50,26 C50,10 26,10 26,28 C26,46 50,64 50,76 C50,64 74,46 74,28 C74,10 50,10 50,26 Z" fill="#e84d3d" stroke="#16213e" stroke-width="3.5"/>
-              <path class="icon-blob" d="M50,42 C74,49 82,63 83,78 C81,101 65,110 50,108 C21,110 17,99 17,78 C18,63 26,49 50,42 Z" fill="#96bfea" stroke="#16213e" stroke-width="4"/>
-              <path d="M38,80 Q42,74 46,80" fill="none" stroke="#16213e" stroke-width="3.5" stroke-linecap="round"/>
-              <path d="M54,80 Q58,74 62,80" fill="none" stroke="#16213e" stroke-width="3.5" stroke-linecap="round"/>
-              <path d="M42,90 Q50,96 58,90" fill="none" stroke="#16213e" stroke-width="3.5" stroke-linecap="round"/>
-            </svg>
-          </div>
+
+      <div class="feature-list">
+        <div class="feature-row">
+          <span class="feature-index">01</span>
           <h3>A Carer, watching over you</h3>
           <p>Add someone as your Carer — if you've gone quiet, they'll know gently, even from a different time zone.</p>
         </div>
-        <div class="feature-card">
-          <div class="feature-icon">
-            <svg viewBox="0 0 100 100" role="img" aria-label="Being a carer icon">
-              <path class="icon-blob" d="M28,38 C46,44 52,56 52,70 C51,88 39,95 27,94 C7,95 4,86 4,70 C5,56 12,44 28,38 Z" fill="#96bfea" stroke="#16213e" stroke-width="4"/>
-              <path d="M18,68 Q22,63 26,68" fill="none" stroke="#16213e" stroke-width="3" stroke-linecap="round"/>
-              <path d="M30,68 Q34,63 38,68" fill="none" stroke="#16213e" stroke-width="3" stroke-linecap="round"/>
-              <path d="M20,78 Q28,84 36,78" fill="none" stroke="#16213e" stroke-width="3" stroke-linecap="round"/>
-              <path class="icon-blob" d="M74,50 C88,55 92,64 92,74 C91,88 82,93 73,92 C58,93 56,86 56,74 C57,64 62,55 74,50 Z" fill="#edb078" stroke="#16213e" stroke-width="4"/>
-              <path d="M67,72 Q70,68 73,72" fill="none" stroke="#16213e" stroke-width="2.5" stroke-linecap="round"/>
-              <path d="M75,72 Q78,68 81,72" fill="none" stroke="#16213e" stroke-width="2.5" stroke-linecap="round"/>
-              <path d="M69,80 Q74,84 79,80" fill="none" stroke="#16213e" stroke-width="2.5" stroke-linecap="round"/>
-              <path class="icon-heart" d="M50,18 C50,10 40,10 40,18 C40,26 50,34 50,39 C50,34 60,26 60,18 C60,10 50,10 50,18 Z" fill="#f4c24d" stroke="#16213e" stroke-width="3"/>
-            </svg>
-          </div>
+        <div class="feature-row">
+          <span class="feature-index">02</span>
           <h3>Be a Carer for someone you love</h3>
           <p>Check in on the people you care about without needing perfect timing — a nudge says "thinking of you" across any distance.</p>
         </div>
-        <div class="feature-card">
-          <div class="feature-icon">
-            <svg viewBox="0 0 100 100" role="img" aria-label="Circle icon">
-              <ellipse cx="50" cy="52" rx="42" ry="42" fill="none" stroke="#edc738" stroke-width="3" stroke-dasharray="6 7"/>
-              <path class="icon-blob" d="M50,30 C66,35 72,46 72,58 C71,74 61,80 50,79 C34,80 31,72 31,58 C32,46 38,35 50,30 Z" fill="#96bfea" stroke="#16213e" stroke-width="4"/>
-              <path d="M42,56 Q45,52 48,56" fill="none" stroke="#16213e" stroke-width="3" stroke-linecap="round"/>
-              <path d="M52,56 Q55,52 58,56" fill="none" stroke="#16213e" stroke-width="3" stroke-linecap="round"/>
-              <path d="M44,65 Q50,70 56,65" fill="none" stroke="#16213e" stroke-width="3" stroke-linecap="round"/>
-              <circle cx="16" cy="30" r="7" fill="#e84d3d" stroke="#16213e" stroke-width="3"/>
-              <circle cx="86" cy="26" r="6" fill="#f4c24d" stroke="#16213e" stroke-width="3"/>
-              <circle cx="88" cy="70" r="6.5" fill="#edb078" stroke="#16213e" stroke-width="3"/>
-            </svg>
-          </div>
+        <div class="feature-row">
+          <span class="feature-index">03</span>
           <h3>Every person, one Circle</h3>
           <p>Family back home, friends abroad, the people navigating distance with you — keep them all close in one private Circle.</p>
         </div>
-        <div class="feature-card">
-          <div class="feature-icon">
-            <svg viewBox="0 0 100 100" role="img" aria-label="Memory board icon">
-              <rect x="10" y="15" width="80" height="70" rx="8" fill="#fdf8f0" stroke="#16213e" stroke-width="4"/>
-              <rect x="20" y="26" width="24" height="24" rx="3" fill="#edb078" stroke="#16213e" stroke-width="3" transform="rotate(-6 32 38)"/>
-              <path class="icon-heart" d="M64,26 C64,21 57,21 57,26 C57,31 64,36 64,39 C64,36 71,31 71,26 C71,21 64,21 64,26 Z" fill="#e84d3d" stroke="#16213e" stroke-width="2.5" transform="rotate(8 64 30)"/>
-              <path d="M56,58 L64,53 L72,58 L70,67 L58,67 Z" fill="#f4c24d" stroke="#16213e" stroke-width="3" stroke-linejoin="round" transform="rotate(5 64 60)"/>
-              <circle cx="20" cy="90" r="9" fill="#96bfea" stroke="#16213e" stroke-width="3.5"/>
-              <circle cx="17" cy="88" r="1.6" fill="#16213e"/>
-              <circle cx="23" cy="88" r="1.6" fill="#16213e"/>
-              <circle cx="80" cy="90" r="9" fill="#edb078" stroke="#16213e" stroke-width="3.5"/>
-              <circle cx="77" cy="88" r="1.6" fill="#16213e"/>
-              <circle cx="83" cy="88" r="1.6" fill="#16213e"/>
-            </svg>
-          </div>
+        <div class="feature-row">
+          <span class="feature-index">04</span>
           <h3>Build a Memory Board together</h3>
           <p>Every Circle gets its own page you build together — photos, notes, little moments. The group chat, reimagined as something worth opening.</p>
         </div>
@@ -128,39 +85,25 @@
     <!-- Download / QR -->
     <section class="download" id="download">
       <div class="download-inner">
-        <svg class="wally-svg download-mascot" viewBox="0 0 100 118" role="img" aria-label="Wally, happy and waiting">
-          <defs>
-            <filter id="downloadShadow" x="-50%" y="-50%" width="200%" height="200%">
-              <feGaussianBlur stdDeviation="4"/>
-            </filter>
-          </defs>
-          <ellipse cx="50" cy="110" rx="26" ry="6" fill="#000" opacity="0.28" filter="url(#downloadShadow)"/>
-          <path d="M50,0 C56.26,3.62 88.07,23.33 92.29,34.61 C96.51,45.89 91.85,83.42 83.75,90.22 C75.65,97.02 38.00,95.10 27.5,88.97 C17.00,82.84 -2.08,51.56 -0.24,41.15 C1.60,30.74 35.91,10.82 42.19,5.68 C48.47,0.54 43.74,-3.62 50,0 Z" fill="#96bfea" stroke="#16213e" stroke-width="2.4"/>
-          <circle cx="37.75" cy="47" r="3.4" fill="#16213e"/>
-          <circle cx="62.25" cy="47" r="3.4" fill="#16213e"/>
-          <path d="M42,54.5 Q50,63.5 58,54.5" fill="none" stroke="#16213e" stroke-width="3.4" stroke-linecap="round"/>
-        </svg>
-        <div class="download-copy">
-          <h2>Anly is launching soon</h2>
-          <p>We're putting the finishing touches on iOS and Android. Scan the code or leave your email and we'll let you know the moment it's live.</p>
+        <h2>Anly is launching soon</h2>
+        <p>We're putting the finishing touches on iOS and Android. Scan the code or leave your email and we'll let you know the moment it's live.</p>
 
-          <div class="qr-box" aria-hidden="true">
-            <div class="qr-placeholder">
-              <span>QR</span>
-            </div>
-            <p class="qr-caption">Scan to get notified<br />(real download QR goes live at launch)</p>
+        <div class="qr-box" aria-hidden="true">
+          <div class="qr-placeholder">
+            <span>QR</span>
           </div>
-
-          <a class="btn-primary" href="mailto:demigirlstudio@gmail.com?subject=Notify%20me%20when%20Anly%20launches">
-            Notify me when Anly launches
-          </a>
+          <p class="qr-caption">Scan to get notified<br />(real download QR goes live at launch)</p>
         </div>
+
+        <a class="btn-outline" href="mailto:demigirlstudio@gmail.com?subject=Notify%20me%20when%20Anly%20launches">
+          Notify me when Anly launches
+        </a>
       </div>
     </section>
   </main>
 
   <footer class="footer">
-    <img class="footer-logo" src="assets/anly-logo-white.png" alt="Anly" />
+    <span class="wordmark footer-wordmark">Anly</span>
     <p>&copy; 2026 Anly. All rights reserved.</p>
     <nav class="footer-links">
       <a href="#">Privacy Policy</a>
