@@ -38,18 +38,17 @@
           <a class="btn-primary" href="#download">Get notified at launch</a>
         </div>
         <div class="hero-art">
-          <svg class="wally-svg" viewBox="0 0 100 125" role="img" aria-label="Wally, the Anly mascot, waving hello">
-            <path d="M50,2.5 C83,13.75 99,37.5 100,62.5 C98,97.5 80,125 50,122.5 C16,123.75 1.5,95 0,62.5 C1,41.25 13,16.25 50,2.5 Z" fill="#96bfea" stroke="#16213e" stroke-width="4"/>
-            <rect x="21" y="108" width="16" height="20" rx="8" fill="#96bfea" stroke="#16213e" stroke-width="3.5"/>
-            <rect x="63" y="108" width="16" height="20" rx="8" fill="#96bfea" stroke="#16213e" stroke-width="3.5"/>
-            <rect x="5" y="77" width="42" height="13" rx="6.5" fill="#96bfea" stroke="#16213e" stroke-width="3.5" transform="rotate(18 26 84)"/>
-            <g transform="rotate(-35 92 85)">
-              <rect x="85" y="30" width="15" height="55" rx="7.5" fill="#96bfea" stroke="#16213e" stroke-width="3.5"/>
-              <circle cx="92.5" cy="28" r="10" fill="#96bfea" stroke="#16213e" stroke-width="3.5"/>
-            </g>
-            <circle cx="39" cy="58" r="5" fill="#16213e"/>
-            <circle cx="59" cy="58" r="5" fill="#16213e"/>
-            <path d="M40,78 Q50,90 60,78" fill="none" stroke="#16213e" stroke-width="4" stroke-linecap="round"/>
+          <svg class="wally-svg" viewBox="0 0 100 118" role="img" aria-label="Wally, the Anly mascot">
+            <defs>
+              <filter id="heroShadow" x="-50%" y="-50%" width="200%" height="200%">
+                <feGaussianBlur stdDeviation="4"/>
+              </filter>
+            </defs>
+            <ellipse cx="50" cy="110" rx="26" ry="6" fill="#000" opacity="0.28" filter="url(#heroShadow)"/>
+            <path d="M50,0 C56.26,3.62 88.07,23.33 92.29,34.61 C96.51,45.89 91.85,83.42 83.75,90.22 C75.65,97.02 38.00,95.10 27.5,88.97 C17.00,82.84 -2.08,51.56 -0.24,41.15 C1.60,30.74 35.91,10.82 42.19,5.68 C48.47,0.54 43.74,-3.62 50,0 Z" fill="#96bfea" stroke="#16213e" stroke-width="2.4"/>
+            <circle cx="37.75" cy="47" r="3.4" fill="#16213e"/>
+            <circle cx="62.25" cy="47" r="3.4" fill="#16213e"/>
+            <path d="M42,54.5 Q50,63.5 58,54.5" fill="none" stroke="#16213e" stroke-width="3.4" stroke-linecap="round"/>
           </svg>
         </div>
       </div>
@@ -129,15 +128,17 @@
     <!-- Download / QR -->
     <section class="download" id="download">
       <div class="download-inner">
-        <svg class="wally-svg download-mascot" viewBox="0 0 100 125" role="img" aria-label="Wally, happy and waiting">
-          <path d="M50,2.5 C83,13.75 99,37.5 100,62.5 C98,97.5 80,125 50,122.5 C16,123.75 1.5,95 0,62.5 C1,41.25 13,16.25 50,2.5 Z" fill="#96bfea" stroke="#16213e" stroke-width="4"/>
-          <rect x="21" y="108" width="16" height="20" rx="8" fill="#96bfea" stroke="#16213e" stroke-width="3.5"/>
-          <rect x="63" y="108" width="16" height="20" rx="8" fill="#96bfea" stroke="#16213e" stroke-width="3.5"/>
-          <rect x="5" y="77" width="46" height="13" rx="6.5" fill="#96bfea" stroke="#16213e" stroke-width="3.5" transform="rotate(14 28 84)"/>
-          <rect x="49" y="77" width="46" height="13" rx="6.5" fill="#96bfea" stroke="#16213e" stroke-width="3.5" transform="rotate(-14 72 84)"/>
-          <path d="M35,58 Q41,50 47,58" fill="none" stroke="#16213e" stroke-width="4" stroke-linecap="round"/>
-          <path d="M53,58 Q59,50 65,58" fill="none" stroke="#16213e" stroke-width="4" stroke-linecap="round"/>
-          <path d="M35,75 Q50,95 65,75" fill="none" stroke="#16213e" stroke-width="4.5" stroke-linecap="round"/>
+        <svg class="wally-svg download-mascot" viewBox="0 0 100 118" role="img" aria-label="Wally, happy and waiting">
+          <defs>
+            <filter id="downloadShadow" x="-50%" y="-50%" width="200%" height="200%">
+              <feGaussianBlur stdDeviation="4"/>
+            </filter>
+          </defs>
+          <ellipse cx="50" cy="110" rx="26" ry="6" fill="#000" opacity="0.28" filter="url(#downloadShadow)"/>
+          <path d="M50,0 C56.26,3.62 88.07,23.33 92.29,34.61 C96.51,45.89 91.85,83.42 83.75,90.22 C75.65,97.02 38.00,95.10 27.5,88.97 C17.00,82.84 -2.08,51.56 -0.24,41.15 C1.60,30.74 35.91,10.82 42.19,5.68 C48.47,0.54 43.74,-3.62 50,0 Z" fill="#96bfea" stroke="#16213e" stroke-width="2.4"/>
+          <circle cx="37.75" cy="47" r="3.4" fill="#16213e"/>
+          <circle cx="62.25" cy="47" r="3.4" fill="#16213e"/>
+          <path d="M42,54.5 Q50,63.5 58,54.5" fill="none" stroke="#16213e" stroke-width="3.4" stroke-linecap="round"/>
         </svg>
         <div class="download-copy">
           <h2>Anly is launching soon</h2>
