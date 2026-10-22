@@ -265,6 +265,28 @@ a {
   color: var(--ink-faint);
 }
 
+.footer-social {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  margin: 0 0 18px;
+}
+
+.footer-social a {
+  display: inline-flex;
+  color: var(--ink-soft);
+  transition: color 0.15s ease;
+}
+
+.footer-social a:hover {
+  color: var(--ink);
+}
+
+.footer-social svg {
+  width: 18px;
+  height: 18px;
+}
+
 .footer-links {
   display: flex;
   justify-content: center;
@@ -357,6 +379,252 @@ a {
 
 .legal-body a:hover {
   text-decoration-color: var(--ink);
+}
+
+/* Shop */
+.shop-hero {
+  padding: 88px 24px 0;
+  border-bottom: 1px solid var(--line);
+  overflow: hidden;
+}
+
+.shop-hero-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.shop-hero h1 {
+  font-size: clamp(34px, 5vw, 54px);
+  font-style: italic;
+  line-height: 1.08;
+  margin: 0 0 22px;
+}
+
+.shop-hero .hero-sub {
+  margin: 0 auto 48px;
+}
+
+/* Character masters sit on ground y 347 of a 400 frame, so pull each down by its empty floor */
+.family-row,
+.art-on-tee,
+.art-on-tote,
+.art-on-mug,
+.postcard-front {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.family-row img,
+.art-on-tee img,
+.art-on-tote img,
+.art-on-mug img,
+.postcard-front img {
+  width: var(--w);
+  height: auto;
+  margin-bottom: calc(var(--w) * -0.1325);
+}
+
+.family-row {
+  gap: 0;
+  padding-bottom: 20px;
+}
+
+.shop {
+  padding: 88px 24px 100px;
+}
+
+.shop-heading-note {
+  margin: 0;
+  font-size: 13px;
+  color: var(--ink-faint);
+}
+
+.product-grid {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px 28px;
+}
+
+.product-art {
+  position: relative;
+  aspect-ratio: 1 / 1;
+  border-radius: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  transition: transform 0.25s ease;
+}
+
+.product-card:hover .product-art {
+  transform: translateY(-3px);
+}
+
+.tint-blue  { background: #dfe9f7; }
+.tint-paper { background: #ece6db; }
+.tint-pink  { background: #f8e3ef; }
+.tint-aqua  { background: #dcf1f4; }
+.tint-mint  { background: #e1f1e6; }
+.tint-sand  { background: #f2e8d6; }
+
+.art-plush {
+  width: 72%;
+  height: auto;
+  filter: drop-shadow(0 14px 14px rgba(74, 58, 72, 0.16));
+}
+
+.art-base {
+  width: 78%;
+  height: auto;
+  filter: drop-shadow(0 10px 12px rgba(74, 58, 72, 0.1));
+}
+
+.art-on-tee,
+.art-on-tote,
+.art-on-mug {
+  position: absolute;
+  gap: 0;
+}
+
+.art-on-tee img,
+.art-on-tote img {
+  margin-left: calc(var(--w) * -0.08);
+  margin-right: calc(var(--w) * -0.08);
+}
+
+.art-on-tee  { top: 44%; left: 50%; transform: translateX(-50%); }
+.art-on-tote { top: 50%; left: 50%; transform: translateX(-50%); }
+.art-on-mug  { top: 41%; left: 37%; }
+
+.sticker-sheet {
+  width: 70%;
+  aspect-ratio: 4 / 5;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 10px 22px rgba(74, 58, 72, 0.12);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  place-items: center;
+  padding: 10%;
+  gap: 4%;
+  transform: rotate(-4deg);
+}
+
+.sticker-sheet img {
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(0 0 0 #fff) drop-shadow(2px 0 0 #fff) drop-shadow(-2px 0 0 #fff)
+          drop-shadow(0 2px 0 #fff) drop-shadow(0 -2px 0 #fff)
+          drop-shadow(0 2px 3px rgba(74, 58, 72, 0.22));
+}
+
+.sticker-heart {
+  font-size: 34px;
+  color: #d873c2;
+  line-height: 1;
+}
+
+.postcard {
+  position: absolute;
+  width: 62%;
+  aspect-ratio: 3 / 2;
+  border-radius: 4px;
+  box-shadow: 0 10px 20px rgba(74, 58, 72, 0.12);
+}
+
+.postcard-back {
+  background: #fff;
+  transform: translate(10%, -16%) rotate(6deg);
+}
+
+.postcard-lines {
+  position: absolute;
+  right: 10%;
+  top: 30%;
+  width: 36%;
+  height: 40%;
+  background: repeating-linear-gradient(to bottom, transparent 0 10px, var(--line) 10px 11px);
+  border-left: 1px solid var(--line);
+  padding-left: 8px;
+}
+
+.postcard-front {
+  background: #dfe9f7;
+  border: 6px solid #fff;
+  transform: translate(-6%, 14%) rotate(-5deg);
+  padding-bottom: 14%;
+  gap: 4px;
+}
+
+.product-info {
+  padding: 20px 2px 0;
+}
+
+.product-info h3 {
+  font-size: 21px;
+  margin: 0 0 8px;
+}
+
+.product-info p {
+  font-size: 14px;
+  color: var(--ink-soft);
+  margin: 0 0 16px;
+  max-width: 40ch;
+}
+
+.product-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid var(--line);
+  padding-top: 14px;
+}
+
+.product-status {
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.product-notify {
+  font-size: 13px;
+  font-weight: 500;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-color: var(--line);
+}
+
+.product-notify:hover {
+  text-decoration-color: var(--ink);
+}
+
+@media (max-width: 900px) {
+  .product-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 560px) {
+  .shop .features-heading {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .product-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .family-row img {
+    width: calc(var(--w) * 0.7);
+    margin-bottom: calc(var(--w) * 0.7 * -0.1325);
+  }
 }
 
 /* Responsive */

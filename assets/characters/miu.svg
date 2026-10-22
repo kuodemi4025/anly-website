@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  MIU · master element (front view) · v2 · approved 2026-10-18 · ちいかわ-style
+  Anly studio. Traced from Demi's chosen Miu reference; soft plum hand-drawn line, hatched cheeks.
+  Local frame: centre x 200, ground y 347. Scale the whole file; never redraw parts.
+  Layer ids are the animation rig. See miu.md for the rules.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+      <!-- Miu -->
+      <path id="miu-body-shape" d="M200.0 94.5 C 204.2 94.4 208.8 102.0 212.8 105.5 C 216.7 109.0 220.1 112.8 223.7 115.7 C 227.2 118.5 230.6 120.4 234.0 122.5 C 237.3 124.6 240.6 126.4 244.0 128.2 C 247.4 130.0 250.8 131.5 254.1 133.3 C 257.4 135.1 260.7 137.0 264.0 139.0 C 267.2 140.9 270.6 142.9 273.7 145.1 C 276.9 147.4 279.9 149.8 282.9 152.4 C 285.8 155.0 288.6 157.8 291.3 160.6 C 294.1 163.5 296.8 166.5 299.3 169.6 C 301.8 172.8 304.0 176.2 306.2 179.7 C 308.3 183.2 310.4 186.8 312.2 190.5 C 314.1 194.3 315.6 198.2 317.1 202.1 C 318.6 206.1 320.1 210.1 321.1 214.3 C 322.1 218.4 322.6 222.7 323.0 227.0 C 323.4 231.3 323.6 235.7 323.5 240.0 C 323.4 244.3 323.5 247.5 322.6 253.0 C 321.6 258.5 320.3 266.2 318.0 273.0 C 315.7 279.8 312.6 287.2 308.8 293.8 C 305.0 300.4 299.1 308.0 295.3 312.8 C 291.5 317.6 289.2 319.5 285.8 322.4 C 282.4 325.2 278.7 327.8 274.9 330.1 C 271.1 332.3 267.0 334.3 262.9 336.0 C 258.8 337.7 254.6 339.1 250.4 340.3 C 246.2 341.4 241.9 342.2 237.7 342.9 C 233.4 343.6 229.2 344.0 225.0 344.5 C 220.8 345.0 216.6 345.5 212.5 345.8 C 208.3 346.0 204.2 345.9 200.0 345.9 C 195.8 345.9 191.7 345.9 187.5 345.8 C 183.3 345.6 179.1 345.5 174.9 345.1 C 170.7 344.7 166.4 344.2 162.2 343.5 C 157.9 342.8 153.6 342.0 149.3 340.9 C 145.0 339.8 140.6 338.6 136.5 337.0 C 132.3 335.4 128.3 333.3 124.4 331.0 C 120.5 328.7 116.8 326.2 113.4 323.2 C 109.9 320.3 107.6 318.4 103.9 313.5 C 100.2 308.6 94.9 300.6 91.2 293.8 C 87.5 287.0 84.1 279.8 82.0 273.0 C 79.9 266.2 79.3 258.4 78.5 252.8 C 77.7 247.3 77.4 244.2 77.3 239.9 C 77.2 235.6 77.5 231.3 77.9 227.0 C 78.3 222.7 78.8 218.5 79.7 214.4 C 80.6 210.2 81.9 206.2 83.3 202.2 C 84.7 198.2 86.2 194.3 88.0 190.6 C 89.7 186.9 91.7 183.2 93.9 179.8 C 96.1 176.3 98.6 173.1 101.1 169.9 C 103.5 166.7 105.9 163.5 108.5 160.5 C 111.1 157.5 113.9 154.7 116.8 152.0 C 119.6 149.4 122.7 146.9 125.7 144.5 C 128.8 142.1 131.9 139.9 135.2 137.8 C 138.4 135.6 141.7 133.7 145.0 131.7 C 148.3 129.8 151.6 127.8 155.0 126.0 C 158.4 124.1 161.9 122.4 165.4 120.5 C 168.9 118.5 172.4 116.7 176.0 114.3 C 179.7 112.0 183.3 109.8 187.3 106.5 C 191.3 103.2 195.8 94.7 200.0 94.5 Z"/>
+      <clipPath id="miu-body-clip"><use href="#miu-body-shape"/></clipPath>
+      <linearGradient id="miu-ombre" gradientUnits="userSpaceOnUse" x1="0" y1="94.5" x2="0" y2="345.9">
+        <stop offset="0" stop-color="#e2efff"/>
+        <stop offset=".5" stop-color="#d6e7fd"/>
+        <stop offset="1" stop-color="#c2d6f3"/>
+      </linearGradient>
+      <filter id="handline" x="-5%" y="-5%" width="110%" height="110%">
+        <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="3" result="n"/>
+        <feDisplacementMap in="SourceGraphic" in2="n" scale="3" xChannelSelector="R" yChannelSelector="G"/>
+      </filter>
+      <filter id="soft-wash" x="-20%" y="-20%" width="140%" height="140%">
+        <feTurbulence type="fractalNoise" baseFrequency="0.045" numOctaves="3" seed="7" result="noise"/>
+        <feDisplacementMap in="SourceGraphic" in2="noise" scale="24" xChannelSelector="R" yChannelSelector="G" result="wobble"/>
+        <feGaussianBlur in="wobble" stdDeviation="2.5"/>
+      </filter>
+      <!-- watercolour mottling: soft blue blotches made from noise -->
+      <filter id="miu-mottle" x="0" y="0" width="100%" height="100%">
+        <feTurbulence type="fractalNoise" baseFrequency="0.022" numOctaves="3" seed="11" result="n"/>
+        <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.58  0 0 0 0 0.71  0 0 0 0 0.91  3.2 0 0 0 -1.35"/>
+        <feGaussianBlur stdDeviation="1.2"/>
+      </filter>
+  </defs>
+
+            <ellipse id="shadow" cx="200" cy="349" rx="84" ry="7" fill="#060e2c" opacity=".08"/>
+            <g id="miu" filter="url(#handline)">
+        <circle cx="78" cy="283.4" r="16.4" fill="url(#miu-ombre)" stroke="#4a3a48" stroke-width="4.4"/>
+        <g id="arm-right-back"><circle cx="321.6" cy="283.4" r="16.4" fill="url(#miu-ombre)" stroke="#4a3a48" stroke-width="4.4"/></g>
+        <use href="#miu-body-shape" fill="url(#miu-ombre)"/>
+        <g clip-path="url(#miu-body-clip)">
+          <path filter="url(#soft-wash)" fill="#9dbbea" opacity=".5" d="M50 300 C 100 286 130 306 170 296 C 210 286 236 302 270 292 C 300 284 320 290 350 282 L 350 380 L 50 380 Z"/>
+          <path filter="url(#soft-wash)" fill="#a9c4ee" opacity=".3" d="M246 160 C 280 168 306 190 316 220 C 296 226 270 214 252 196 Z"/>
+          <path filter="url(#soft-wash)" fill="#a9c4ee" opacity=".24" d="M78 220 C 96 214 116 228 118 252 C 100 260 84 254 76 244 Z"/>
+          <rect x="60" y="90" width="280" height="270" filter="url(#miu-mottle)" opacity=".85"/>
+          <!-- glossy shine, as in the reference -->
+          <g fill="none" stroke="#ffffff" stroke-linecap="round" opacity=".75">
+            <path d="M144 161 Q156 145 176 137" stroke-width="5"/>
+            <path d="M278 299 Q290 288 298 273" stroke-width="3.5"/>
+          </g>
+        </g>
+        <use href="#miu-body-shape" fill="none" stroke="#4a3a48" stroke-width="4.4" stroke-linejoin="round"/>
+        <circle cx="81" cy="283.4" r="12.4" fill="url(#miu-ombre)"/>
+        <g id="arm-right-front"><circle cx="318.6" cy="283.4" r="12.4" fill="url(#miu-ombre)"/></g>
+        <!-- face -->
+        <ellipse cx="141" cy="255" rx="10.5" ry="7" fill="#f6c3dc"/><path d="M132 260 l6 -10 M139 260 l6 -10 M146 260 l6 -10" stroke="#e0789e" stroke-width="2.4" stroke-linecap="round"/>
+        <ellipse cx="259" cy="255" rx="10.5" ry="7" fill="#f6c3dc"/><path d="M250 260 l6 -10 M257 260 l6 -10 M264 260 l6 -10" stroke="#e0789e" stroke-width="2.4" stroke-linecap="round"/>
+        <g transform="translate(163 232) scale(1.15) translate(-163 -232)"><g id="eye-left" class="eye">
+          <ellipse cx="163" cy="232" rx="9" ry="10.5" fill="#3a2c3a"/>
+          <path d="M155.5 225.5 Q153 223 152 220 M154.5 230.5 Q151.5 229.5 149 228" fill="none" stroke="#3a2c3a" stroke-width="3" stroke-linecap="round"/>
+        </g></g>
+        <g transform="translate(237 232) scale(1.15) translate(-237 -232)"><g id="eye-right" class="eye">
+          <ellipse cx="237" cy="232" rx="9" ry="10.5" fill="#3a2c3a"/>
+          <path d="M244.5 225.5 Q247 223 248 220 M245.5 230.5 Q248.5 229.5 251 228" fill="none" stroke="#3a2c3a" stroke-width="3" stroke-linecap="round"/>
+        </g></g>
+        <!-- pacifier: two-lobed shield, then the ring and knob in front -->
+        <g id="pacifier">
+          <path d="M169 260 C 169 250.5 176 245 185 245 C 192 245 196 248.5 200 250.5 C 204 248.5 208 245 215 245 C 224 245 231 250.5 231 260 C 231 270 223.5 276 214.5 276 C 209 276 204 274 200 272 C 196 274 191 276 185.5 276 C 176.5 276 169 270 169 260 Z" fill="#fbf5cf" stroke="#4a3a48" stroke-width="3.6" stroke-linejoin="round"/>
+          <circle cx="198.5" cy="279.5" r="14.5" fill="#fedf86" stroke="#4a3a48" stroke-width="3.6"/>
+          <circle cx="199.5" cy="269" r="13" fill="#fddd83" stroke="#4a3a48" stroke-width="3.6"/>
+        </g>
+      </g>
+          
+</svg>
