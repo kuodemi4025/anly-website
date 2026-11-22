@@ -1288,42 +1288,6 @@
       ]
     },
     {
-      "id": 41,
-      "publishOn": "2027-02-12",
-      "template": "story",
-      "tag": "STORY",
-      "title": "Three Days Without Signal—Yet Everyone Knew the Plan",
-      "readTime": "2 min read",
-      "character": "ArticleCora",
-      "hero": "https://anly.app/articles/img/41-three-days-no-signal.png",
-      "blocks": [
-        {
-          "kind": "paragraph",
-          "text": "Daniel shoots mountaineering documentaries. Before every remote expedition, he does the exact same thing: he posts his route inside an ANLY Room, noting the dates he'll be off-grid along with his local guide's name, and keeps location sharing on throughout the trip."
-        },
-        {
-          "kind": "paragraph",
-          "text": "While trekking in northern Pakistan, he expected three full days with no reception before checking in from the trail-end village on the morning of day four."
-        },
-        {
-          "kind": "paragraph",
-          "text": "The fourth morning passed, and by evening there was still no word. His producer, Elena, opened ANLY. His last check-in was four days earlier at the trailhead he had listed—and right there in the Room was his itinerary, dates, guide's name, and the trekking agency's phone number."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Elena called the agency, who reached the guide via satellite phone. A rockslide had blocked the main trail, forcing the team onto a longer detour. Daniel had twisted his knee along the way and was moving slowly, with the guide staying right beside him. The agency dispatched a jeep to meet them at the next village."
-        },
-        {
-          "kind": "paragraph",
-          "text": "\"Without that plan saved in the Room, Elena wouldn't have known who to call,\" Daniel said. \"She would have just been left waiting.\""
-        },
-        {
-          "kind": "paragraph",
-          "text": "Before heading off the grid, tell your Carers where you're going, when you'll be back, and who you're with."
-        }
-      ]
-    },
-    {
       "id": 372,
       "publishOn": "2027-02-15",
       "template": "story",
