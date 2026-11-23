@@ -310,42 +310,6 @@
       ]
     },
     {
-      "id": 10,
-      "publishOn": "2026-11-27",
-      "template": "list",
-      "tag": "GOOD TO KNOW",
-      "title": "5 Simple Safety Habits for Anyone Living Alone",
-      "readTime": "2 min read",
-      "character": "ArticleWally",
-      "hero": "https://anly.app/articles/img/10-living-alone-safety.png",
-      "blocks": [
-        {
-          "kind": "step",
-          "text": "Leave a spare house key with a trusted friend or neighbor who lives nearby."
-        },
-        {
-          "kind": "step",
-          "text": "Set a consistent daily check-in time on ANLY so the people who care about you know you're safe today."
-        },
-        {
-          "kind": "step",
-          "text": "Write down the address of the nearest hospital and pharmacy so you don't have to look them up in an emergency."
-        },
-        {
-          "kind": "step",
-          "text": "Make sure you know where your home's main gas shut-off valve and electrical breaker panel are located."
-        },
-        {
-          "kind": "step",
-          "text": "Tell at least one friend clearly what to do—and who to contact—if they ever can't reach you."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Peace of mind when living alone rarely comes from assuming nothing will ever go wrong; it comes from knowing someone knows how to find you if it does."
-        }
-      ]
-    },
-    {
       "id": 68,
       "publishOn": "2026-11-27",
       "template": "story",
@@ -486,42 +450,6 @@
         {
           "kind": "paragraph",
           "text": "And that is more than enough."
-        }
-      ]
-    },
-    {
-      "id": 48,
-      "publishOn": "2026-11-30",
-      "template": "list",
-      "tag": "BEFORE YOU GO",
-      "title": "Moving to a New City Alone? 5 Things to Do in Your First Week",
-      "readTime": "1 min read",
-      "character": "ArticleWally",
-      "hero": "https://anly.app/articles/img/48-new-city-week-one.png",
-      "blocks": [
-        {
-          "kind": "step",
-          "text": "Memorize your new home address and save it in your phone so you can give it out immediately in an emergency."
-        },
-        {
-          "kind": "step",
-          "text": "Locate the nearest clinic, pharmacy, and 24-hour convenience store."
-        },
-        {
-          "kind": "step",
-          "text": "Introduce yourself to at least one neighbor or your building manager."
-        },
-        {
-          "kind": "step",
-          "text": "Set up your ANLY Carers: add family back home, and once you meet new friends, add at least one person living in your new city."
-        },
-        {
-          "kind": "step",
-          "text": "Pick a daily check-in time that fits your new routine."
-        },
-        {
-          "kind": "paragraph",
-          "text": "A new city can feel lonely at first. Knowing someone knows you're doing okay today makes the city feel a little smaller."
         }
       ]
     },
@@ -696,42 +624,6 @@
         {
           "kind": "paragraph",
           "text": "Five people got the alert, and Emily and Ryan acted immediately. Having just one or two people notice is enough."
-        }
-      ]
-    },
-    {
-      "id": 58,
-      "publishOn": "2026-12-02",
-      "template": "list",
-      "tag": "BEFORE YOU GO",
-      "title": "Digital Nomad Landing in a New City? 5 Things to Do on Day One",
-      "readTime": "1 min read",
-      "character": "ArticleWally",
-      "hero": "https://anly.app/articles/img/58-nomad-first-day.png",
-      "blocks": [
-        {
-          "kind": "step",
-          "text": "Save your accommodation address in the local language on your phone so you can easily show taxi drivers or responders."
-        },
-        {
-          "kind": "step",
-          "text": "Look up the nearest hospital or urgent care clinic along with local emergency numbers."
-        },
-        {
-          "kind": "step",
-          "text": "Turn on location sharing for your very first ANLY check-in so your Carers know you've arrived safely and which neighborhood you're staying in."
-        },
-        {
-          "kind": "step",
-          "text": "Update your daily check-in reminder to match the new local time zone."
-        },
-        {
-          "kind": "step",
-          "text": "Make at least one local friend or coworking buddy—and once you trust them, add them as a Carer too."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Constant movement is part of nomad life. Taking ten minutes to set these up lets you explore every new city with peace of mind."
         }
       ]
     },
@@ -1694,34 +1586,6 @@
         {
           "kind": "paragraph",
           "text": "Often, the person who can help you fastest lives right next door."
-        }
-      ]
-    },
-    {
-      "id": 45,
-      "publishOn": "2026-12-18",
-      "template": "list",
-      "tag": "GOOD TO KNOW",
-      "title": "3 Ways to Invite Your Parents to Use ANLY Without Making Them Feel Monitored",
-      "readTime": "1 min read",
-      "character": "ArticleWally",
-      "hero": "https://anly.app/articles/img/45-invite-parents.png",
-      "blocks": [
-        {
-          "kind": "step",
-          "text": "Start with yourself: \"Knowing you're safe gives me peace of mind—and you'll get to see I'm doing okay too.\" Make it mutual by inviting them to watch your check-ins."
-        },
-        {
-          "kind": "step",
-          "text": "Start with fewer phone calls: \"This way I don't have to call every day to make sure you're okay, and you don't have to keep waiting for my call.\""
-        },
-        {
-          "kind": "step",
-          "text": "Let them stay in control: let them choose their check-in time, who gets added as a Carer, and whether to share location. Remind them it's their account, not yours."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Most parents hate feeling \"taken care of,\" yet almost all of them want to stay close. Start right there."
         }
       ]
     },
