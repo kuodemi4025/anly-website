@@ -1,6 +1,77 @@
 {
   "articles": [
     {
+      "id": 25,
+      "publishOn": "2026-11-23",
+      "template": "story",
+      "tag": "STORY",
+      "title": "His Last Check-In Was 300 Yards Off the Trail",
+      "readTime": "3 min read",
+      "character": "ArticleCora",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Jake goes hiking every weekend. He lives alone in the city while his parents and sister live back home, so everyone knows he's mostly offline on Saturdays and Sundays. His family only asks one thing: check in on ANLY once he's off the trail."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Out on the mountain, Jake likes to check in at every rest stop with location sharing turned on, letting his family follow his progress without having to text."
+        },
+        {
+          "kind": "paragraph",
+          "text": "That Sunday, his last check-in came through at 2:40 PM—and then nothing. By 8:00 PM, there was still no \"back at the trailhead\" check-in. His sister texted with no reply; his mom's call went straight to voicemail. The family began debating whether to wait longer or call for help."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Then his sister opened ANLY and tapped his last check-in. The pin wasn't on the main trail—it was in a wooded ravine roughly 300 yards off course."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Without realizing it, Jake had followed a deer path off the main trail, so the \"rest stop\" where he checked in at 2:40 PM was already off route. By the time he realized he was lost, he had zero reception and a nearly dead battery."
+        },
+        {
+          "kind": "paragraph",
+          "text": "His family called Search and Rescue and shared the exact GPS coordinates. Instead of combing the entire mountain, rescuers headed straight to that pin and found him within two hours—cold and exhausted, but uninjured."
+        },
+        {
+          "kind": "paragraph",
+          "text": "One check-in and one location pin narrowed an entire mountain search down to a few hundred yards."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "publishOn": "2026-11-23",
+      "template": "story",
+      "tag": "STORY",
+      "title": "Five Texts and Four Group Chats—Now Reduced to a Single Tap",
+      "readTime": "2 min read",
+      "character": "ArticleCora",
+      "hero": "https://anly.app/articles/img/40-one-tap-arrival.png",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Mia films travel documentaries in some of the most remote corners of the world. Just last year, she traveled through Kyrgyzstan, Mongolia, and the Faroe Islands."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Previously, every single landing meant the exact same routine: text her mom; message her ten-year-old son staying with his dad; check in on her editing team's group chat; reply to her best friend; and let her manager know she had landed and when the next video would drop. Five texts across four group chats on every trip—usually over spotty airport Wi-Fi."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Now everyone is on her Carer list. The moment her plane touches down in Bishkek, she taps check-in once. Her mom sees it, her son watches Mom's droplet turn blue, her editor knows footage is on the way, and her best friend sends back a heart."
+        },
+        {
+          "kind": "paragraph",
+          "text": "\"I used to spend my first hour in a new country answering the exact same question five times,\" Mia said. \"Now I actually get to look around and take it all in.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "Everyone who loves you wants to know you're safe—they shouldn't all have to ask one by one."
+        }
+      ]
+    },
+    {
       "id": 361,
       "publishOn": "2026-11-23",
       "template": "story",
@@ -56,38 +127,6 @@
       ]
     },
     {
-      "id": 40,
-      "publishOn": "2026-11-23",
-      "template": "story",
-      "tag": "STORY",
-      "title": "Five Texts and Four Group Chats—Now Reduced to a Single Tap",
-      "readTime": "2 min read",
-      "character": "ArticleCora",
-      "hero": "https://anly.app/articles/img/40-one-tap-arrival.png",
-      "blocks": [
-        {
-          "kind": "paragraph",
-          "text": "Mia films travel documentaries in some of the most remote corners of the world. Just last year, she traveled through Kyrgyzstan, Mongolia, and the Faroe Islands."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Previously, every single landing meant the exact same routine: text her mom; message her ten-year-old son staying with his dad; check in on her editing team's group chat; reply to her best friend; and let her manager know she had landed and when the next video would drop. Five texts across four group chats on every trip—usually over spotty airport Wi-Fi."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Now everyone is on her Carer list. The moment her plane touches down in Bishkek, she taps check-in once. Her mom sees it, her son watches Mom's droplet turn blue, her editor knows footage is on the way, and her best friend sends back a heart."
-        },
-        {
-          "kind": "paragraph",
-          "text": "\"I used to spend my first hour in a new country answering the exact same question five times,\" Mia said. \"Now I actually get to look around and take it all in.\""
-        },
-        {
-          "kind": "paragraph",
-          "text": "Everyone who loves you wants to know you're safe—they shouldn't all have to ask one by one."
-        }
-      ]
-    },
-    {
       "id": 366,
       "publishOn": "2026-11-23",
       "template": "list",
@@ -128,41 +167,26 @@
       ]
     },
     {
-      "id": 25,
-      "publishOn": "2026-11-23",
+      "id": 5,
+      "publishOn": "2026-11-25",
       "template": "story",
       "tag": "STORY",
-      "title": "His Last Check-In Was 300 Yards Off the Trail",
-      "readTime": "3 min read",
+      "title": "The Very First App Grandpa Learned to Use",
+      "readTime": "1 min read",
       "character": "ArticleCora",
+      "hero": "https://anly.app/articles/img/05-grandpa-first-feature.png",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Jake goes hiking every weekend. He lives alone in the city while his parents and sister live back home, so everyone knows he's mostly offline on Saturdays and Sundays. His family only asks one thing: check in on ANLY once he's off the trail."
+          "text": "There are only two apps on Grandpa's phone that he knows how to use all by himself: WhatsApp, and now ANLY."
         },
         {
           "kind": "paragraph",
-          "text": "Out on the mountain, Jake likes to check in at every rest stop with location sharing turned on, letting his family follow his progress without having to text."
+          "text": "When his granddaughter first set it up for him, he grumbled, \"It's not like I'm going to get lost.\" After two weeks, though, he started tapping the droplet at the same time every day—not out of fear of emergencies, but because he knew his daughter would see his smiling blue droplet appear."
         },
         {
           "kind": "paragraph",
-          "text": "That Sunday, his last check-in came through at 2:40 PM—and then nothing. By 8:00 PM, there was still no \"back at the trailhead\" check-in. His sister texted with no reply; his mom's call went straight to voicemail. The family began debating whether to wait longer or call for help."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Then his sister opened ANLY and tapped his last check-in. The pin wasn't on the main trail—it was in a wooded ravine roughly 300 yards off course."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Without realizing it, Jake had followed a deer path off the main trail, so the \"rest stop\" where he checked in at 2:40 PM was already off route. By the time he realized he was lost, he had zero reception and a nearly dead battery."
-        },
-        {
-          "kind": "paragraph",
-          "text": "His family called Search and Rescue and shared the exact GPS coordinates. Instead of combing the entire mountain, rescuers headed straight to that pin and found him within two hours—cold and exhausted, but uninjured."
-        },
-        {
-          "kind": "paragraph",
-          "text": "One check-in and one location pin narrowed an entire mountain search down to a few hundred yards."
+          "text": "\"You get to see that I'm safe, and I get to see when you're busy or finally free to reply,\" he said. It has easily become the steadiest connection between father and daughter in over a decade."
         }
       ]
     },
@@ -199,6 +223,45 @@
         {
           "kind": "paragraph",
           "text": "When you're alone in a new city, you don't need a crowd—just the few people who remember."
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "publishOn": "2026-11-25",
+      "template": "story",
+      "tag": "STORY",
+      "title": "The Night Before Finals, Her Check-In Didn't Show Up",
+      "readTime": "2 min read",
+      "character": "ArticleCora",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Maya attends college in Austin and lives alone in a studio near campus. She has Type 1 diabetes and has known how to manage her condition since childhood. Her parents live in Houston and video-call once a week, trying not to hover."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Before starting school, she agreed to check in on ANLY every morning after waking up. She also added Chloe, a classmate living in the same building, as her Carer and explained her medical condition."
+        },
+        {
+          "kind": "paragraph",
+          "text": "The night before finals, Maya stayed up late studying, ate very little dinner, and forgot to check her blood sugar before falling asleep. By 8:00 AM the next morning, she hadn't checked in."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Receiving the alert, Chloe texted and called with no response. Remembering what Maya had told her, she immediately asked the landlord to unlock the door. Maya was lying in bed, barely responsive. Chloe called 911 right away and told the paramedics about Maya's Type 1 diabetes."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Maya regained consciousness quickly and was taken to the hospital for observation. A few days later, she returned to campus to arrange make-up exams."
+        },
+        {
+          "kind": "paragraph",
+          "text": "\"I'm good at taking care of myself,\" Maya said, \"but there are times when I simply can't do it alone.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "Living independently with a chronic condition calls for a quiet safety net."
         }
       ]
     },
@@ -247,101 +310,30 @@
       ]
     },
     {
-      "id": 5,
-      "publishOn": "2026-11-25",
-      "template": "story",
-      "tag": "STORY",
-      "title": "The Very First App Grandpa Learned to Use",
-      "readTime": "1 min read",
-      "character": "ArticleCora",
-      "hero": "https://anly.app/articles/img/05-grandpa-first-feature.png",
-      "blocks": [
-        {
-          "kind": "paragraph",
-          "text": "There are only two apps on Grandpa's phone that he knows how to use all by himself: WhatsApp, and now ANLY."
-        },
-        {
-          "kind": "paragraph",
-          "text": "When his granddaughter first set it up for him, he grumbled, \"It's not like I'm going to get lost.\" After two weeks, though, he started tapping the droplet at the same time every day—not out of fear of emergencies, but because he knew his daughter would see his smiling blue droplet appear."
-        },
-        {
-          "kind": "paragraph",
-          "text": "\"You get to see that I'm safe, and I get to see when you're busy or finally free to reply,\" he said. It has easily become the steadiest connection between father and daughter in over a decade."
-        }
-      ]
-    },
-    {
-      "id": 66,
-      "publishOn": "2026-11-25",
-      "template": "story",
-      "tag": "STORY",
-      "title": "The Night Before Finals, Her Check-In Didn't Show Up",
-      "readTime": "2 min read",
-      "character": "ArticleCora",
-      "blocks": [
-        {
-          "kind": "paragraph",
-          "text": "Maya attends college in Austin and lives alone in a studio near campus. She has Type 1 diabetes and has known how to manage her condition since childhood. Her parents live in Houston and video-call once a week, trying not to hover."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Before starting school, she agreed to check in on ANLY every morning after waking up. She also added Chloe, a classmate living in the same building, as her Carer and explained her medical condition."
-        },
-        {
-          "kind": "paragraph",
-          "text": "The night before finals, Maya stayed up late studying, ate very little dinner, and forgot to check her blood sugar before falling asleep. By 8:00 AM the next morning, she hadn't checked in."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Receiving the alert, Chloe texted and called with no response. Remembering what Maya had told her, she immediately asked the landlord to unlock the door. Maya was lying in bed, barely responsive. Chloe called 911 right away and told the paramedics about Maya's Type 1 diabetes."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Maya regained consciousness quickly and was taken to the hospital for observation. A few days later, she returned to campus to arrange make-up exams."
-        },
-        {
-          "kind": "paragraph",
-          "text": "\"I'm good at taking care of myself,\" Maya said, \"but there are times when I simply can't do it alone.\""
-        },
-        {
-          "kind": "paragraph",
-          "text": "Living independently with a chronic condition calls for a quiet safety net."
-        }
-      ]
-    },
-    {
-      "id": 68,
+      "id": 15,
       "publishOn": "2026-11-27",
       "template": "story",
       "tag": "STORY",
-      "title": "The Two Weeks Dad Worked Offshore",
+      "title": "Sisters in Different Cities, Connected by a Single Droplet",
       "readTime": "2 min read",
       "character": "ArticleCora",
-      "hero": "https://anly.app/articles/img/68-dad-at-sea.png",
+      "hero": "https://anly.app/articles/img/15-sisters-apart.png",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Ryan works at an offshore wind farm, spending two weeks at a time living aboard a service vessel. Since divorcing his ex-wife, his ten-year-old daughter Lily stays with her grandmother."
+          "text": "Hannah works in Seattle, while her younger sister Chloe married and moved to Portland. Caught up in their own busy lives, they usually only call once or twice a month, trading sporadic texts in between."
         },
         {
           "kind": "paragraph",
-          "text": "With unstable offshore reception and long shifts, he rarely gets to have proper phone calls with his daughter. Lily used to constantly ask her grandma, \"What is Dad doing today? Is he safe?\""
+          "text": "Ever since downloading ANLY, they've shared an effortless new habit: tapping check-in before heading out each morning. Seeing the other's droplet turn blue simply says, \"She's up and out the door—everything's normal.\" No forced small talk, no searching for topics—just quiet companionship."
         },
         {
           "kind": "paragraph",
-          "text": "Eventually, Ryan made a pact with her: every day after his shift, whenever there was a signal, he would check in on ANLY. Every morning when Lily woke up, the first thing she did was open her grandma's tablet to see if Dad's droplet had turned blue."
+          "text": "One week, Chloe checked in unusually late two days in a row. Hannah casually texted, \"Super busy lately?\" and discovered Chloe was hitting a rough patch at work and feeling overwhelmed. That phone call lasted nearly an hour—the deepest conversation they'd had in months."
         },
         {
           "kind": "paragraph",
-          "text": "\"Blue means Dad finished work safely today,\" Lily said."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Once, rough seas cut off signal on the vessel for an entire day. Ryan texted Grandma and Lily the day before: \"Might not be able to check in tomorrow, don't worry.\" The following night, the moment they sailed back into coverage, checking in was the very first thing he did."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Ryan says he can't be by his daughter's side every day, but at least he can let her know every day that Dad is doing just fine."
+          "text": "\"Without that little droplet, I probably wouldn't have thought to ask,\" Hannah said. Sometimes it isn't a lack of care; we just don't know when to reach out."
         }
       ]
     },
@@ -382,74 +374,38 @@
       ]
     },
     {
-      "id": 15,
+      "id": 68,
       "publishOn": "2026-11-27",
       "template": "story",
       "tag": "STORY",
-      "title": "Sisters in Different Cities, Connected by a Single Droplet",
+      "title": "The Two Weeks Dad Worked Offshore",
       "readTime": "2 min read",
       "character": "ArticleCora",
-      "hero": "https://anly.app/articles/img/15-sisters-apart.png",
+      "hero": "https://anly.app/articles/img/68-dad-at-sea.png",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Hannah works in Seattle, while her younger sister Chloe married and moved to Portland. Caught up in their own busy lives, they usually only call once or twice a month, trading sporadic texts in between."
+          "text": "Ryan works at an offshore wind farm, spending two weeks at a time living aboard a service vessel. Since divorcing his ex-wife, his ten-year-old daughter Lily stays with her grandmother."
         },
         {
           "kind": "paragraph",
-          "text": "Ever since downloading ANLY, they've shared an effortless new habit: tapping check-in before heading out each morning. Seeing the other's droplet turn blue simply says, \"She's up and out the door—everything's normal.\" No forced small talk, no searching for topics—just quiet companionship."
+          "text": "With unstable offshore reception and long shifts, he rarely gets to have proper phone calls with his daughter. Lily used to constantly ask her grandma, \"What is Dad doing today? Is he safe?\""
         },
         {
           "kind": "paragraph",
-          "text": "One week, Chloe checked in unusually late two days in a row. Hannah casually texted, \"Super busy lately?\" and discovered Chloe was hitting a rough patch at work and feeling overwhelmed. That phone call lasted nearly an hour—the deepest conversation they'd had in months."
+          "text": "Eventually, Ryan made a pact with her: every day after his shift, whenever there was a signal, he would check in on ANLY. Every morning when Lily woke up, the first thing she did was open her grandma's tablet to see if Dad's droplet had turned blue."
         },
         {
           "kind": "paragraph",
-          "text": "\"Without that little droplet, I probably wouldn't have thought to ask,\" Hannah said. Sometimes it isn't a lack of care; we just don't know when to reach out."
-        }
-      ]
-    },
-    {
-      "id": 371,
-      "publishOn": "2026-11-30",
-      "template": "note",
-      "tag": "A LITTLE NOTE",
-      "title": "You Made It Safely Through Another Year of Ordinary Days",
-      "readTime": "2 min read",
-      "character": "ArticleMimi",
-      "hero": "https://anly.app/articles/img/371-ordinary-days.png",
-      "blocks": [
-        {
-          "kind": "paragraph",
-          "text": "At the end of every year, social feeds fill up with big milestones: promotions, bucket-list trips, new apartments, and major achievements."
+          "text": "\"Blue means Dad finished work safely today,\" Lily said."
         },
         {
           "kind": "paragraph",
-          "text": "If you didn't have a year full of headline moments, that's completely okay."
+          "text": "Once, rough seas cut off signal on the vessel for an entire day. Ryan texted Grandma and Lily the day before: \"Might not be able to check in tomorrow, don't worry.\" The following night, the moment they sailed back into coverage, checking in was the very first thing he did."
         },
         {
           "kind": "paragraph",
-          "text": "Day after day, you still woke up, went to work, made dinner, and came home. Some days were exhausting, some felt dull, and on a few hard days you wondered how you'd push through—yet you did."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Those ordinary days add up to an entire year."
-        },
-        {
-          "kind": "paragraph",
-          "text": "You stayed healthy, avoided major crises, and made it through—and that alone is worth celebrating. People who care about you are quietly waiting for your updates, breathing easier simply knowing you're safe."
-        },
-        {
-          "kind": "paragraph",
-          "text": "So in these final days of the year, don't pressure yourself to write an impressive highlight reel."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Just tell yourself: \"You did well—you made it through another year safely.\""
-        },
-        {
-          "kind": "paragraph",
-          "text": "And that is more than enough."
+          "text": "Ryan says he can't be by his daughter's side every day, but at least he can let her know every day that Dad is doing just fine."
         }
       ]
     },
@@ -533,42 +489,81 @@
       ]
     },
     {
-      "id": 368,
-      "publishOn": "2026-12-02",
-      "template": "list",
-      "tag": "GOOD TO KNOW",
-      "title": "Living Alone and Tackling High Cleaning Tasks? Follow These 5 Safety Rules",
+      "id": 371,
+      "publishOn": "2026-11-30",
+      "template": "note",
+      "tag": "A LITTLE NOTE",
+      "title": "You Made It Safely Through Another Year of Ordinary Days",
       "readTime": "2 min read",
-      "character": "ArticleWally",
-      "hero": "https://anly.app/articles/img/368-year-end-cleaning.png",
+      "character": "ArticleMimi",
+      "hero": "https://anly.app/articles/img/371-ordinary-days.png",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Whether it's spring cleaning or getting ready for the holidays, solo dwellers often end up wiping high windows, changing ceiling bulbs, cleaning AC filters, or pulling heavy bins off top closet shelves. Whenever you climb up high alone, take extra care."
-        },
-        {
-          "kind": "step",
-          "text": "Use a sturdy step ladder—never a chair\nSwivel chairs, folding chairs, and stools tip easily. Invest in a solid household step ladder and make sure all four feet sit flat on the floor."
-        },
-        {
-          "kind": "step",
-          "text": "Tackle high chores during daylight when you're alert\nNever climb a ladder right after an exhausting workday, when drowsy, or after having a drink. Good daylight helps you see clearly."
-        },
-        {
-          "kind": "step",
-          "text": "Keep your phone in your pocket, not on the table\nIf you ever take a tumble, having your phone within arm's reach can make all the difference."
-        },
-        {
-          "kind": "step",
-          "text": "Ask for help with anything too high or too heavy\nFor ceiling fixtures, range hoods, or bulky storage boxes, invite a friend over or hire a pro."
-        },
-        {
-          "kind": "step",
-          "text": "Tap check-in that day so your Carers know you're safe\nAdd family, friends, and coworkers as Carers on ANLY and check in daily. Once you check in, everyone knows you're okay today—and if you ever miss a check-in, they'll receive a reminder."
+          "text": "At the end of every year, social feeds fill up with big milestones: promotions, bucket-list trips, new apartments, and major achievements."
         },
         {
           "kind": "paragraph",
-          "text": "A spotless home feels great, but keeping yourself safe matters most."
+          "text": "If you didn't have a year full of headline moments, that's completely okay."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Day after day, you still woke up, went to work, made dinner, and came home. Some days were exhausting, some felt dull, and on a few hard days you wondered how you'd push through—yet you did."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Those ordinary days add up to an entire year."
+        },
+        {
+          "kind": "paragraph",
+          "text": "You stayed healthy, avoided major crises, and made it through—and that alone is worth celebrating. People who care about you are quietly waiting for your updates, breathing easier simply knowing you're safe."
+        },
+        {
+          "kind": "paragraph",
+          "text": "So in these final days of the year, don't pressure yourself to write an impressive highlight reel."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Just tell yourself: \"You did well—you made it through another year safely.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "And that is more than enough."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "publishOn": "2026-12-02",
+      "template": "story",
+      "tag": "STORY",
+      "title": "His Car Broke Down Right Where Cell Service Ended",
+      "readTime": "1 min read",
+      "character": "ArticleCora",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Kevin goes solo camping several times a year. Living in Denver while his parents live in Colorado Springs, he knows his mom and dad don't expect constant updates—he simply checks in on ANLY with location sharing at every stop along the drive."
+        },
+        {
+          "kind": "paragraph",
+          "text": "On a mountain pass in Colorado, his last check-in was at 4:30 PM from a scenic overlook. Twenty minutes later, after driving past the last bar of cell service, his engine overheated and died completely. He pulled onto the narrow shoulder with zero signal as darkness closed in."
+        },
+        {
+          "kind": "paragraph",
+          "text": "He was supposed to check in from the campsite by 6:30 PM. By 8:00 PM, his mom had called twice with no luck."
+        },
+        {
+          "kind": "paragraph",
+          "text": "She opened ANLY and tapped his last check-in—pinned at that scenic overlook on the mountain highway. She called the local police and gave them the road name and his last known spot."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Just after 10:00 PM, a patrol car found Kevin bundled up in a sleeping bag in the driver's seat, roughly a mile past the overlook."
+        },
+        {
+          "kind": "paragraph",
+          "text": "\"They didn't have to search the whole mountain,\" his mom said. \"They only had to drive down one road.\""
         }
       ]
     },
@@ -628,37 +623,42 @@
       ]
     },
     {
-      "id": 32,
+      "id": 368,
       "publishOn": "2026-12-02",
-      "template": "story",
-      "tag": "STORY",
-      "title": "His Car Broke Down Right Where Cell Service Ended",
-      "readTime": "1 min read",
-      "character": "ArticleCora",
+      "template": "list",
+      "tag": "GOOD TO KNOW",
+      "title": "Living Alone and Tackling High Cleaning Tasks? Follow These 5 Safety Rules",
+      "readTime": "2 min read",
+      "character": "ArticleWally",
+      "hero": "https://anly.app/articles/img/368-year-end-cleaning.png",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Kevin goes solo camping several times a year. Living in Denver while his parents live in Colorado Springs, he knows his mom and dad don't expect constant updates—he simply checks in on ANLY with location sharing at every stop along the drive."
+          "text": "Whether it's spring cleaning or getting ready for the holidays, solo dwellers often end up wiping high windows, changing ceiling bulbs, cleaning AC filters, or pulling heavy bins off top closet shelves. Whenever you climb up high alone, take extra care."
+        },
+        {
+          "kind": "step",
+          "text": "Use a sturdy step ladder—never a chair\nSwivel chairs, folding chairs, and stools tip easily. Invest in a solid household step ladder and make sure all four feet sit flat on the floor."
+        },
+        {
+          "kind": "step",
+          "text": "Tackle high chores during daylight when you're alert\nNever climb a ladder right after an exhausting workday, when drowsy, or after having a drink. Good daylight helps you see clearly."
+        },
+        {
+          "kind": "step",
+          "text": "Keep your phone in your pocket, not on the table\nIf you ever take a tumble, having your phone within arm's reach can make all the difference."
+        },
+        {
+          "kind": "step",
+          "text": "Ask for help with anything too high or too heavy\nFor ceiling fixtures, range hoods, or bulky storage boxes, invite a friend over or hire a pro."
+        },
+        {
+          "kind": "step",
+          "text": "Tap check-in that day so your Carers know you're safe\nAdd family, friends, and coworkers as Carers on ANLY and check in daily. Once you check in, everyone knows you're okay today—and if you ever miss a check-in, they'll receive a reminder."
         },
         {
           "kind": "paragraph",
-          "text": "On a mountain pass in Colorado, his last check-in was at 4:30 PM from a scenic overlook. Twenty minutes later, after driving past the last bar of cell service, his engine overheated and died completely. He pulled onto the narrow shoulder with zero signal as darkness closed in."
-        },
-        {
-          "kind": "paragraph",
-          "text": "He was supposed to check in from the campsite by 6:30 PM. By 8:00 PM, his mom had called twice with no luck."
-        },
-        {
-          "kind": "paragraph",
-          "text": "She opened ANLY and tapped his last check-in—pinned at that scenic overlook on the mountain highway. She called the local police and gave them the road name and his last known spot."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Just after 10:00 PM, a patrol car found Kevin bundled up in a sleeping bag in the driver's seat, roughly a mile past the overlook."
-        },
-        {
-          "kind": "paragraph",
-          "text": "\"They didn't have to search the whole mountain,\" his mom said. \"They only had to drive down one road.\""
+          "text": "A spotless home feels great, but keeping yourself safe matters most."
         }
       ]
     },
@@ -683,61 +683,6 @@
         {
           "kind": "paragraph",
           "text": "A single daily check-in gives you that quiet space: without having to explain a thing, you let the people who care about you know you're still here today."
-        }
-      ]
-    },
-    {
-      "id": 360,
-      "publishOn": "2026-12-04",
-      "template": "story",
-      "tag": "STORY",
-      "title": "A Freezing Night in Seoul: The Balcony Door Locked Behind Her",
-      "readTime": "2 min read",
-      "character": "ArticleCora",
-      "blocks": [
-        {
-          "kind": "paragraph",
-          "text": "Chloe is a remote software engineer who moved to Seoul this fall, renting a small twelfth-floor studio through spring."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Between the time difference and everyone's busy schedules, they mostly traded a few photos in the family group chat and video-called once or twice a month. Her parents lived in Houston and her sister in Dallas. Before leaving, Chloe added her parents, her sister, two college best friends, and Ji-Yeon—a friend she met through a language exchange in Seoul—as Carers. \"Check-ins are free anyway, might as well add a few extra people,\" she thought, tapping check-in every morning right after waking up."
-        },
-        {
-          "kind": "paragraph",
-          "text": "That night, carrying a basket of freshly washed laundry, she stepped out onto the small balcony to hang it up. A gust of wind blew the sliding glass door shut with a sharp click. The old latch jammed from the inside, refusing to budge no matter how hard she pulled."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Her phone was charging on the desk inside. She knocked on the wall shared with her neighbor, but nobody seemed home. Below, traffic roared along the street; she shouted until her voice gave out, yet no one looked up."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Temperatures plunged near freezing that night. Layering the damp clothes on one by one and flattening a cardboard box from the corner to sit on, she curled up and waited for sunrise."
-        },
-        {
-          "kind": "paragraph",
-          "text": "The next morning, she missed her check-in."
-        },
-        {
-          "kind": "paragraph",
-          "text": "By noon, all six Carers received an alert. Her parents called repeatedly with no answer. Her sister texted the family group chat: \"Can anyone reach Chloe?\""
-        },
-        {
-          "kind": "paragraph",
-          "text": "Ji-Yeon lived just two subway stops away. Remembering Chloe's apartment building, she took the afternoon off and went straight to the building manager. Taking a master key upstairs, they unlocked the front door and immediately heard someone knocking on the balcony glass."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Chloe's hands and feet were numb from the cold, and her voice was hoarse. Doctors confirmed mild hypothermia—nothing a warm drink and rest wouldn't fix."
-        },
-        {
-          "kind": "paragraph",
-          "text": "\"Six people got that alert, and Ji-Yeon was the one who showed up,\" Chloe said later. \"And having just one person show up is all it takes.\""
-        },
-        {
-          "kind": "paragraph",
-          "text": "Now, whenever she steps onto the balcony to hang laundry, she props the sliding door open with a slipper first."
         }
       ]
     },
@@ -814,6 +759,61 @@
         {
           "kind": "paragraph",
           "text": "When working alone abroad, your last check-in location is often the starting point for someone to find you."
+        }
+      ]
+    },
+    {
+      "id": 360,
+      "publishOn": "2026-12-04",
+      "template": "story",
+      "tag": "STORY",
+      "title": "A Freezing Night in Seoul: The Balcony Door Locked Behind Her",
+      "readTime": "2 min read",
+      "character": "ArticleCora",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Chloe is a remote software engineer who moved to Seoul this fall, renting a small twelfth-floor studio through spring."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Between the time difference and everyone's busy schedules, they mostly traded a few photos in the family group chat and video-called once or twice a month. Her parents lived in Houston and her sister in Dallas. Before leaving, Chloe added her parents, her sister, two college best friends, and Ji-Yeon—a friend she met through a language exchange in Seoul—as Carers. \"Check-ins are free anyway, might as well add a few extra people,\" she thought, tapping check-in every morning right after waking up."
+        },
+        {
+          "kind": "paragraph",
+          "text": "That night, carrying a basket of freshly washed laundry, she stepped out onto the small balcony to hang it up. A gust of wind blew the sliding glass door shut with a sharp click. The old latch jammed from the inside, refusing to budge no matter how hard she pulled."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Her phone was charging on the desk inside. She knocked on the wall shared with her neighbor, but nobody seemed home. Below, traffic roared along the street; she shouted until her voice gave out, yet no one looked up."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Temperatures plunged near freezing that night. Layering the damp clothes on one by one and flattening a cardboard box from the corner to sit on, she curled up and waited for sunrise."
+        },
+        {
+          "kind": "paragraph",
+          "text": "The next morning, she missed her check-in."
+        },
+        {
+          "kind": "paragraph",
+          "text": "By noon, all six Carers received an alert. Her parents called repeatedly with no answer. Her sister texted the family group chat: \"Can anyone reach Chloe?\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "Ji-Yeon lived just two subway stops away. Remembering Chloe's apartment building, she took the afternoon off and went straight to the building manager. Taking a master key upstairs, they unlocked the front door and immediately heard someone knocking on the balcony glass."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Chloe's hands and feet were numb from the cold, and her voice was hoarse. Doctors confirmed mild hypothermia—nothing a warm drink and rest wouldn't fix."
+        },
+        {
+          "kind": "paragraph",
+          "text": "\"Six people got that alert, and Ji-Yeon was the one who showed up,\" Chloe said later. \"And having just one person show up is all it takes.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "Now, whenever she steps onto the balcony to hang laundry, she props the sliding door open with a slipper first."
         }
       ]
     },
@@ -1033,6 +1033,42 @@
       ]
     },
     {
+      "id": 52,
+      "publishOn": "2026-12-09",
+      "template": "story",
+      "tag": "STORY",
+      "title": "The First Year After Dad Passed, Mom Checked In Every Morning",
+      "readTime": "1 min read",
+      "character": "ArticleCora",
+      "hero": "https://anly.app/articles/img/52-mom-checks-in-every-morning.png",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Claire's father passed away last year. All three kids live in different cities: her older brother in London, Claire in New York, and her younger brother in Atlanta. Their mom insisted on staying alone in her longtime family home in Ohio, saying, \"I'm used to it here.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "The siblings agreed to take turns calling, averaging once every two weeks each, yet it never felt like enough. Their mom always answered, \"I'm doing fine,\" leaving them unsure how to ask more."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Her younger brother suggested trying ANLY together. Hesitant at first, their mom soon realized a single tap let all three kids see she was okay—so she began checking in every morning after her grocery run."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Gradually, those check-ins became a quiet form of company. Before his meetings in London, her older brother saw Mom's blue droplet, felt at ease and walked into the meeting. When Claire noticed her mom checking in a little later several days in a row, she called just to chat about how she'd been sleeping."
+        },
+        {
+          "kind": "paragraph",
+          "text": "\"She didn't need us calling every single day,\" Claire said. \"She just needed to know someone was thinking of her every day.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "The days after losing a spouse feel long. One tiny daily gesture keeps faraway family woven into everyday life."
+        }
+      ]
+    },
+    {
       "id": 60,
       "publishOn": "2026-12-09",
       "template": "note",
@@ -1104,38 +1140,82 @@
       ]
     },
     {
-      "id": 52,
-      "publishOn": "2026-12-09",
+      "id": 30,
+      "publishOn": "2026-12-11",
       "template": "story",
       "tag": "STORY",
-      "title": "The First Year After Dad Passed, Mom Checked In Every Morning",
-      "readTime": "1 min read",
+      "title": "Dad's Check-In Appeared at a Park He Had Never Visited Before",
+      "readTime": "2 min read",
       "character": "ArticleCora",
-      "hero": "https://anly.app/articles/img/52-mom-checks-in-every-morning.png",
+      "hero": "https://anly.app/articles/img/30-dad-in-a-new-park.png",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Claire's father passed away last year. All three kids live in different cities: her older brother in London, Claire in New York, and her younger brother in Atlanta. Their mom insisted on staying alone in her longtime family home in Ohio, saying, \"I'm used to it here.\""
+          "text": "Claire's dad was diagnosed with mild dementia last year. He still lives alone in Phoenix, takes his morning walk every day, and insists he's doing fine. Claire lives in Denver and calls him every Sunday."
         },
         {
           "kind": "paragraph",
-          "text": "The siblings agreed to take turns calling, averaging once every two weeks each, yet it never felt like enough. Their mom always answered, \"I'm doing fine,\" leaving them unsure how to ask more."
+          "text": "They agreed on one simple routine: Dad checks in on ANLY with location sharing on after every morning walk. To him, it was just a quick way to tell his daughter, \"I got my exercise in today.\""
         },
         {
           "kind": "paragraph",
-          "text": "Her younger brother suggested trying ANLY together. Hesitant at first, their mom soon realized a single tap let all three kids see she was okay—so she began checking in every morning after her grocery run."
+          "text": "For months, the pin appeared in the exact same spot: the neighborhood park two blocks from his house."
         },
         {
           "kind": "paragraph",
-          "text": "Gradually, those check-ins became a quiet form of company. Before his meetings in London, her older brother saw Mom's blue droplet, felt at ease and walked into the meeting. When Claire noticed her mom checking in a little later several days in a row, she called just to chat about how she'd been sleeping."
+          "text": "One Tuesday, instead of 8:00 AM, his check-in popped up at 11:00 AM—at a park across town, nearly three miles from home."
         },
         {
           "kind": "paragraph",
-          "text": "\"She didn't need us calling every single day,\" Claire said. \"She just needed to know someone was thinking of her every day.\""
+          "text": "Claire called him right away. He sounded calm, just unsure which bus to take back. Keeping him on the line, she used another phone to call her cousin living nearby, who drove to the park and brought him home safely."
         },
         {
           "kind": "paragraph",
-          "text": "The days after losing a spouse feel long. One tiny daily gesture keeps faraway family woven into everyday life."
+          "text": "\"He wasn't scared,\" Claire said. \"I was the one who was terrified. Knowing his exact location made all the difference.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "Soon after, they sat down with his doctor to plan extra support—a conversation that only happened because a single location pin showed them things were changing."
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "publishOn": "2026-12-11",
+      "template": "list",
+      "tag": "GOOD TO KNOW",
+      "title": "When Should You Turn On Location Sharing? 5 Everyday Scenarios",
+      "readTime": "2 min read",
+      "character": "ArticleWally",
+      "hero": "https://anly.app/articles/img/56-when-to-share-location.png",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "ANLY only records your location at the exact moment you check in—and you can turn it off anytime. Here are five moments when turning it on makes sense:"
+        },
+        {
+          "kind": "step",
+          "text": "Hiking or trail running: check in at the trailhead, the summit, and rest stops."
+        },
+        {
+          "kind": "step",
+          "text": "Solo road trips: check in when you head out, at rest areas, and once you arrive."
+        },
+        {
+          "kind": "step",
+          "text": "Arriving in an unfamiliar city or country: check in right after landing and when checking into your hotel."
+        },
+        {
+          "kind": "step",
+          "text": "Severe weather or natural disasters: if you evacuate or stay elsewhere, let everyone know where you're sheltering."
+        },
+        {
+          "kind": "step",
+          "text": "Heading home from a night shift: tap once when leaving work, and again when you walk through your front door."
+        },
+        {
+          "kind": "paragraph",
+          "text": "When you're just at home or the office, leaving location off is completely fine. Whether and when to share is always up to you."
         }
       ]
     },
@@ -1223,122 +1303,6 @@
       ]
     },
     {
-      "id": 56,
-      "publishOn": "2026-12-11",
-      "template": "list",
-      "tag": "GOOD TO KNOW",
-      "title": "When Should You Turn On Location Sharing? 5 Everyday Scenarios",
-      "readTime": "2 min read",
-      "character": "ArticleWally",
-      "hero": "https://anly.app/articles/img/56-when-to-share-location.png",
-      "blocks": [
-        {
-          "kind": "paragraph",
-          "text": "ANLY only records your location at the exact moment you check in—and you can turn it off anytime. Here are five moments when turning it on makes sense:"
-        },
-        {
-          "kind": "step",
-          "text": "Hiking or trail running: check in at the trailhead, the summit, and rest stops."
-        },
-        {
-          "kind": "step",
-          "text": "Solo road trips: check in when you head out, at rest areas, and once you arrive."
-        },
-        {
-          "kind": "step",
-          "text": "Arriving in an unfamiliar city or country: check in right after landing and when checking into your hotel."
-        },
-        {
-          "kind": "step",
-          "text": "Severe weather or natural disasters: if you evacuate or stay elsewhere, let everyone know where you're sheltering."
-        },
-        {
-          "kind": "step",
-          "text": "Heading home from a night shift: tap once when leaving work, and again when you walk through your front door."
-        },
-        {
-          "kind": "paragraph",
-          "text": "When you're just at home or the office, leaving location off is completely fine. Whether and when to share is always up to you."
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "publishOn": "2026-12-11",
-      "template": "story",
-      "tag": "STORY",
-      "title": "Dad's Check-In Appeared at a Park He Had Never Visited Before",
-      "readTime": "2 min read",
-      "character": "ArticleCora",
-      "hero": "https://anly.app/articles/img/30-dad-in-a-new-park.png",
-      "blocks": [
-        {
-          "kind": "paragraph",
-          "text": "Claire's dad was diagnosed with mild dementia last year. He still lives alone in Phoenix, takes his morning walk every day, and insists he's doing fine. Claire lives in Denver and calls him every Sunday."
-        },
-        {
-          "kind": "paragraph",
-          "text": "They agreed on one simple routine: Dad checks in on ANLY with location sharing on after every morning walk. To him, it was just a quick way to tell his daughter, \"I got my exercise in today.\""
-        },
-        {
-          "kind": "paragraph",
-          "text": "For months, the pin appeared in the exact same spot: the neighborhood park two blocks from his house."
-        },
-        {
-          "kind": "paragraph",
-          "text": "One Tuesday, instead of 8:00 AM, his check-in popped up at 11:00 AM—at a park across town, nearly three miles from home."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Claire called him right away. He sounded calm, just unsure which bus to take back. Keeping him on the line, she used another phone to call her cousin living nearby, who drove to the park and brought him home safely."
-        },
-        {
-          "kind": "paragraph",
-          "text": "\"He wasn't scared,\" Claire said. \"I was the one who was terrified. Knowing his exact location made all the difference.\""
-        },
-        {
-          "kind": "paragraph",
-          "text": "Soon after, they sat down with his doctor to plan extra support—a conversation that only happened because a single location pin showed them things were changing."
-        }
-      ]
-    },
-    {
-      "id": 70,
-      "publishOn": "2026-12-14",
-      "template": "story",
-      "tag": "STORY",
-      "title": "Los Angeles and Seoul: A Good Morning Seventeen Hours Apart",
-      "readTime": "1 min read",
-      "character": "ArticleCora",
-      "hero": "https://anly.app/articles/img/70-taipei-vancouver.png",
-      "blocks": [
-        {
-          "kind": "paragraph",
-          "text": "Nathan works in Los Angeles while his girlfriend Emma is in grad school in Seoul. With a seventeen-hour time difference, when she wakes up, he's about to finish work; when he wakes up, she's getting ready for bed."
-        },
-        {
-          "kind": "paragraph",
-          "text": "At first, they video-called daily, but one of them was always yawning. Soon it dropped to every few days, often canceled because someone was too tired. It wasn't a lack of care—their schedules just never lined up."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Then they started using ANLY together. Emma checks in every morning when she wakes up, and so does Nathan. Nobody has to stay up late or set an alarm."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Nathan says his favorite moment is seeing Emma's droplet turn blue during his afternoon coffee break, knowing her day has started well. Emma says seeing his check-in before bed feels like hearing a warm \"good morning.\""
-        },
-        {
-          "kind": "paragraph",
-          "text": "Now they video-call every Saturday without needing to spend time confirming \"Are you okay?\"—they jump straight into sharing their week."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Distance can't erase time zones, but a daily check-in can still deliver \"I'm doing fine today\" right on time."
-        }
-      ]
-    },
-    {
       "id": 27,
       "publishOn": "2026-12-14",
       "template": "story",
@@ -1370,38 +1334,6 @@
         {
           "kind": "paragraph",
           "text": "\"I didn't want to worry my parents,\" Olivia said. \"I never realized that staying silent was actually what scared them most.\""
-        }
-      ]
-    },
-    {
-      "id": 59,
-      "publishOn": "2026-12-14",
-      "template": "note",
-      "tag": "A LITTLE NOTE",
-      "title": "\"Text Me When You Get Home\" Is the Shortest Way to Say \"I Love You\"",
-      "readTime": "2 min read",
-      "character": "ArticleMimi",
-      "hero": "https://anly.app/articles/img/59-home-yet.png",
-      "blocks": [
-        {
-          "kind": "paragraph",
-          "text": "Growing up, Mom always said, \"Call me when you get there.\" As adults, it became, \"Text me when you get home.\""
-        },
-        {
-          "kind": "paragraph",
-          "text": "It's a short phrase, and an easy one to forget. Yet the person saying it is really saying: I'll keep thinking of you until I know you're safe."
-        },
-        {
-          "kind": "paragraph",
-          "text": "When we live alone, travel solo, or live far from home, we often stay silent because we don't want anyone to worry. For the people who love us, though, silence is often harder to bear than bad news."
-        },
-        {
-          "kind": "paragraph",
-          "text": "Checking in isn't about reporting your whereabouts or being monitored. It's simply placing that reassuring \"I made it\" right into someone's hands."
-        },
-        {
-          "kind": "paragraph",
-          "text": "ANLY's daily check-in makes that timeless small gesture effortless: one tap, and the people who care about you know you're safe today."
         }
       ]
     },
@@ -1446,26 +1378,70 @@
       ]
     },
     {
-      "id": 17,
-      "publishOn": "2026-12-16",
+      "id": 59,
+      "publishOn": "2026-12-14",
       "template": "note",
       "tag": "A LITTLE NOTE",
-      "title": "\"I'm Good\" Is the Most Common Lie We Tell",
-      "readTime": "1 min read",
+      "title": "\"Text Me When You Get Home\" Is the Shortest Way to Say \"I Love You\"",
+      "readTime": "2 min read",
       "character": "ArticleMimi",
-      "hero": "https://anly.app/articles/img/17-im-fine.png",
+      "hero": "https://anly.app/articles/img/59-home-yet.png",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "When someone asks, \"How have you been?\" most of us automatically reply, \"I'm good,\" no matter how we actually feel inside. It isn't about lying—it just feels exhausting to explain, and we don't want to be a burden."
+          "text": "Growing up, Mom always said, \"Call me when you get there.\" As adults, it became, \"Text me when you get home.\""
         },
         {
           "kind": "paragraph",
-          "text": "Over time, \"I'm good\" becomes a polite reflex, burying real emotions even deeper. Eventually, the people around us stop asking twice."
+          "text": "It's a short phrase, and an easy one to forget. Yet the person saying it is really saying: I'll keep thinking of you until I know you're safe."
         },
         {
           "kind": "paragraph",
-          "text": "A daily check-in doesn't require typing out a status update about your day. Yet it leaves an open door: on the days when you're truly struggling, someone who cares will notice an unchanged droplet and ask, \"Hey, are you really okay?\"—before you ever have to force yourself to speak up."
+          "text": "When we live alone, travel solo, or live far from home, we often stay silent because we don't want anyone to worry. For the people who love us, though, silence is often harder to bear than bad news."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Checking in isn't about reporting your whereabouts or being monitored. It's simply placing that reassuring \"I made it\" right into someone's hands."
+        },
+        {
+          "kind": "paragraph",
+          "text": "ANLY's daily check-in makes that timeless small gesture effortless: one tap, and the people who care about you know you're safe today."
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "publishOn": "2026-12-14",
+      "template": "story",
+      "tag": "STORY",
+      "title": "Los Angeles and Seoul: A Good Morning Seventeen Hours Apart",
+      "readTime": "1 min read",
+      "character": "ArticleCora",
+      "hero": "https://anly.app/articles/img/70-taipei-vancouver.png",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Nathan works in Los Angeles while his girlfriend Emma is in grad school in Seoul. With a seventeen-hour time difference, when she wakes up, he's about to finish work; when he wakes up, she's getting ready for bed."
+        },
+        {
+          "kind": "paragraph",
+          "text": "At first, they video-called daily, but one of them was always yawning. Soon it dropped to every few days, often canceled because someone was too tired. It wasn't a lack of care—their schedules just never lined up."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Then they started using ANLY together. Emma checks in every morning when she wakes up, and so does Nathan. Nobody has to stay up late or set an alarm."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Nathan says his favorite moment is seeing Emma's droplet turn blue during his afternoon coffee break, knowing her day has started well. Emma says seeing his check-in before bed feels like hearing a warm \"good morning.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "Now they video-call every Saturday without needing to spend time confirming \"Are you okay?\"—they jump straight into sharing their week."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Distance can't erase time zones, but a daily check-in can still deliver \"I'm doing fine today\" right on time."
         }
       ]
     },
@@ -1502,6 +1478,66 @@
         {
           "kind": "paragraph",
           "text": "\"If it weren't for that alert, everyone would've just figured I was still on deadline,\" Leo said later. After that incident, his Carers came to an unspoken agreement: whenever an alert comes, even if they think he's probably just busy, they call him first."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "publishOn": "2026-12-16",
+      "template": "note",
+      "tag": "A LITTLE NOTE",
+      "title": "\"I'm Good\" Is the Most Common Lie We Tell",
+      "readTime": "1 min read",
+      "character": "ArticleMimi",
+      "hero": "https://anly.app/articles/img/17-im-fine.png",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "When someone asks, \"How have you been?\" most of us automatically reply, \"I'm good,\" no matter how we actually feel inside. It isn't about lying—it just feels exhausting to explain, and we don't want to be a burden."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Over time, \"I'm good\" becomes a polite reflex, burying real emotions even deeper. Eventually, the people around us stop asking twice."
+        },
+        {
+          "kind": "paragraph",
+          "text": "A daily check-in doesn't require typing out a status update about your day. Yet it leaves an open door: on the days when you're truly struggling, someone who cares will notice an unchanged droplet and ask, \"Hey, are you really okay?\"—before you ever have to force yourself to speak up."
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "publishOn": "2026-12-16",
+      "template": "story",
+      "tag": "STORY",
+      "title": "Two Neighbors on the Same Floor Added Each Other as Carers",
+      "readTime": "2 min read",
+      "character": "ArticleCora",
+      "hero": "https://anly.app/articles/img/53-neighbours-carers.png",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Mrs. Henderson and Mrs. Alvarez live on the exact same floor of their apartment building—both living alone, with adult children living out of state. Previously, they only exchanged polite nods in the elevator."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Last year, when Mrs. Henderson's daughter set up ANLY for her, she suggested, \"It's smart to add someone who lives right nearby too.\" Thinking it over, Mrs. Henderson knocked on her neighbor's door. Hearing how simple it was, Mrs. Alvarez asked her grandson to install it on her phone as well."
+        },
+        {
+          "kind": "paragraph",
+          "text": "From then on, both women saw each other's check-in every morning—no need to chat, just quiet reassurance that the other was up and about."
+        },
+        {
+          "kind": "paragraph",
+          "text": "One morning at 10:00 AM, Mrs. Alvarez still hadn't checked in. Getting no reply to a text, Mrs. Henderson walked across the hall and rang the bell. Mrs. Alvarez opened the door with a raspy voice—she had been running a fever all night while her phone sat unheard in the living room. Mrs. Henderson checked her temperature, called her daughter in Texas, and brought over a warm pot of chicken soup."
+        },
+        {
+          "kind": "paragraph",
+          "text": "\"My daughter is states away and couldn't get here right away,\" Mrs. Alvarez said, \"but my neighbor was just ten steps down the hall.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "Often, the person who can help you fastest lives right next door."
         }
       ]
     },
@@ -1554,38 +1590,58 @@
       ]
     },
     {
-      "id": 53,
-      "publishOn": "2026-12-16",
+      "id": 364,
+      "publishOn": "2026-12-18",
       "template": "story",
-      "tag": "STORY",
-      "title": "Two Neighbors on the Same Floor Added Each Other as Carers",
-      "readTime": "2 min read",
+      "tag": "TRUE STORY",
+      "title": "She Said She Was Going Camping for a Few Days—Until She Didn't Show Up for Work",
+      "readTime": "3 min read",
       "character": "ArticleCora",
-      "hero": "https://anly.app/articles/img/53-neighbours-carers.png",
+      "hero": "https://anly.app/articles/img/364-camping-trip.png",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Mrs. Henderson and Mrs. Alvarez live on the exact same floor of their apartment building—both living alone, with adult children living out of state. Previously, they only exchanged polite nods in the elevator."
+          "text": "This is based on a true news story."
         },
         {
           "kind": "paragraph",
-          "text": "Last year, when Mrs. Henderson's daughter set up ANLY for her, she suggested, \"It's smart to add someone who lives right nearby too.\" Thinking it over, Mrs. Henderson knocked on her neighbor's door. Hearing how simple it was, Mrs. Alvarez asked her grandson to install it on her phone as well."
+          "text": "In late September 2026, a woman in her seventies set out alone in her camper van for a multi-day camping trip in a Northern California forest. We'll call her \"Mary.\""
         },
         {
           "kind": "paragraph",
-          "text": "From then on, both women saw each other's check-in every morning—no need to chat, just quiet reassurance that the other was up and about."
+          "text": "According to her plan, she was supposed to return to work that Friday. When Friday arrived and Mary never showed up, she was officially reported missing."
         },
         {
           "kind": "paragraph",
-          "text": "One morning at 10:00 AM, Mrs. Alvarez still hadn't checked in. Getting no reply to a text, Mrs. Henderson walked across the hall and rang the bell. Mrs. Alvarez opened the door with a raspy voice—she had been running a fever all night while her phone sat unheard in the living room. Mrs. Henderson checked her temperature, called her daughter in Texas, and brought over a warm pot of chicken soup."
+          "text": "The next day, two county sheriff's offices launched a joint search-and-rescue operation joined by volunteers and a California Highway Patrol helicopter. That same day, searchers located her camper van near a trailhead."
         },
         {
           "kind": "paragraph",
-          "text": "\"My daughter is states away and couldn't get here right away,\" Mrs. Alvarez said, \"but my neighbor was just ten steps down the hall.\""
+          "text": "A day later, rescuers found Mary at the bottom of a steep embankment. Having fallen and spent days exposed to the elements, she had suffered several serious injuries and was airlifted to a hospital."
         },
         {
           "kind": "paragraph",
-          "text": "Often, the person who can help you fastest lives right next door."
+          "text": "From departure to rescue, roughly six days had passed. The good news: she survived and was reunited with her family."
+        },
+        {
+          "kind": "paragraph",
+          "text": "What makes this story so chilling is that silent gap—from the moment she left until she missed work, nobody realized anything was wrong."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Many people go camping or hiking solo not out of carelessness, but simply because nobody is expecting a daily sign from them."
+        },
+        {
+          "kind": "paragraph",
+          "text": "If you often head outdoors alone, add family, friends, or even coworkers as Carers on ANLY. One daily check-in lets everyone know you're safe today—and if you ever miss one, they will receive a missed check-in alert instead of waiting until the day you're due back at work. You can also post your route inside a Room before heading out."
+        },
+        {
+          "kind": "paragraph",
+          "text": "When just one or two people notice sooner, that dangerous silence becomes much shorter."
+        },
+        {
+          "kind": "source",
+          "text": "Names and identifying details have been changed to protect privacy."
         }
       ]
     },
@@ -1677,58 +1733,111 @@
       ]
     },
     {
-      "id": 364,
-      "publishOn": "2026-12-18",
+      "id": 9,
+      "publishOn": "2026-12-21",
       "template": "story",
-      "tag": "TRUE STORY",
-      "title": "She Said She Was Going Camping for a Few Days—Until She Didn't Show Up for Work",
-      "readTime": "3 min read",
+      "tag": "STORY",
+      "title": "She Didn't Make It Home from Her Evening Run Today",
+      "readTime": "2 min read",
       "character": "ArticleCora",
-      "hero": "https://anly.app/articles/img/364-camping-trip.png",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "This is based on a true news story."
+          "text": "Sarah runs along the river trail every evening at 6:30. For nearly a year, rain or shine, she’s made it a habit to check in on ANLY right after she gets home and takes a shower. Her Carers include her good friend Emily who lives in the same neighborhood, her sister in San Diego, and her college roommate Jessica. They’re all used to seeing her check-in every night."
         },
         {
           "kind": "paragraph",
-          "text": "In late September 2026, a woman in her seventies set out alone in her camper van for a multi-day camping trip in a Northern California forest. We'll call her \"Mary.\""
+          "text": "It got dark unusually early that day. As she reached the most isolated part of the trail, a dog suddenly darted out from the bushes. Startled, she lost her footing and tumbled down the grassy embankment. The moment her ankle hit the ground, the pain was so sharp she couldn't stand up. Her phone flew out of her armband and disappeared into the tall grass."
         },
         {
           "kind": "paragraph",
-          "text": "According to her plan, she was supposed to return to work that Friday. When Friday arrived and Mary never showed up, she was officially reported missing."
+          "text": "That section of the trail was usually empty, and it grew eerily quiet after dark. She tried shouting for help, but only the wind answered. Knowing she wouldn't be able to check in today, she hugged her knees, shivering as she waited."
         },
         {
           "kind": "paragraph",
-          "text": "The next day, two county sheriff's offices launched a joint search-and-rescue operation joined by volunteers and a California Highway Patrol helicopter. That same day, searchers located her camper van near a trailhead."
+          "text": "Meanwhile, Sarah's Carers started receiving alerts that she had missed her check-in. Her sister called first, but no one answered. Jessica sent a text, which was left unread. Emily remembered Sarah's regular running route and decided to drive over to the trail to take a look, while the others kept trying to reach her."
         },
         {
           "kind": "paragraph",
-          "text": "A day later, rescuers found Mary at the bottom of a steep embankment. Having fallen and spent days exposed to the elements, she had suffered several serious injuries and was airlifted to a hospital."
+          "text": "Emily drove slowly along the road next to the trail, shining a flashlight down the embankment. Finally, she spotted Sarah huddled in the dark. She immediately called 911 for an ambulance and texted the others: \"Found her. She's safe, but her ankle might be sprained.\""
         },
         {
           "kind": "paragraph",
-          "text": "From departure to rescue, roughly six days had passed. The good news: she survived and was reunited with her family."
+          "text": "Sarah often says now that the scariest part of that night wasn't the pain. It was the thought that if it weren't for that missed check-in, she probably would have been out there until the next morning before anyone noticed she was missing."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "publishOn": "2026-12-21",
+      "template": "story",
+      "tag": "STORY",
+      "title": "My First Year Living Alone in a New City",
+      "readTime": "2 min read",
+      "character": "ArticleCora",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "At twenty-six, I moved out of my family's house and rented a small studio apartment in a city I had never lived in before."
         },
         {
           "kind": "paragraph",
-          "text": "What makes this story so chilling is that silent gap—from the moment she left until she missed work, nobody realized anything was wrong."
+          "text": "In the beginning, everything felt new and exciting. There was the local diner where the owner quickly remembered my usual order, the riverside park just a ten-minute walk away, and a used-book market that only pops up on weekends. I signed up for a pottery class near my office and bonded with a classmate over several misshapen bowls. I even made a new friend at my favorite coffee shop after striking up a conversation about the book she was reading."
         },
         {
           "kind": "paragraph",
-          "text": "Many people go camping or hiking solo not out of carelessness, but simply because nobody is expecting a daily sign from them."
+          "text": "My days were full. I had places to go after work, plans for the weekend, and a fridge stocked with meals I was learning to cook for myself. I often thought about how wonderful living alone could actually be."
         },
         {
           "kind": "paragraph",
-          "text": "If you often head outdoors alone, add family, friends, or even coworkers as Carers on ANLY. One daily check-in lets everyone know you're safe today—and if you ever miss one, they will receive a missed check-in alert instead of waiting until the day you're due back at work. You can also post your route inside a Room before heading out."
+          "text": "But occasionally, on certain very quiet nights, a thought would suddenly pop into my head: If I slipped in the bathroom, or if I woke up in the middle of the night with a high fever and couldn't get out of bed, who would notice? My new friends were great, but they wouldn't think to check on me every single day. My family loved me, but they were in another city and didn't know how my day-to-day life was going."
         },
         {
           "kind": "paragraph",
-          "text": "When just one or two people notice sooner, that dangerous silence becomes much shorter."
+          "text": "That was the first time I seriously opened ANLY. I added my parents, my sister, and my closest friend from pottery class as my Carers. It started as just a trial, a quick tap before going to sleep every night."
         },
         {
-          "kind": "source",
-          "text": "Names and identifying details have been changed to protect privacy."
+          "kind": "paragraph",
+          "text": "Over time, it slowly became a habit, as natural as brushing my teeth. That check-in isn't about reporting my whereabouts; it's just a way to let the people who care about me know that I'm doing fine today. And with that peace of mind, I could finally, little by little, turn this new city into my true home."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "publishOn": "2026-12-21",
+      "template": "story",
+      "tag": "STORY",
+      "title": "Her Last Check-In Was in the Hospital Parking Lot at 2:10 AM",
+      "readTime": "1 min read",
+      "character": "ArticleCora",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Megan is a night-shift nurse. Her boyfriend Jordan lives across town and works a standard nine-to-five, meaning their schedules barely overlap except on weekends."
+        },
+        {
+          "kind": "paragraph",
+          "text": "They have a simple agreement: every night after her shift, Megan checks in on ANLY with location sharing on as she leaves the hospital, and taps again once she gets home. Jordan usually wakes up to see both check-ins waiting."
+        },
+        {
+          "kind": "paragraph",
+          "text": "At 3:00 AM that morning, Jordan woke up and checked his phone out of habit. The first check-in was there—2:10 AM, Hospital Parking Lot. The second one wasn't. Her drive home only took twenty minutes."
+        },
+        {
+          "kind": "paragraph",
+          "text": "He called, and it went straight to voicemail. He tried again—still no answer."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Jordan drove to the hospital and followed her usual route home from there. Ten minutes in, he spotted her car pulled onto the shoulder. Megan was sitting on the curb with a scraped arm and a sprained ankle; another driver had swerved into her lane, forcing her off the road and shattering her phone in the crash."
+        },
+        {
+          "kind": "paragraph",
+          "text": "\"I knew someone would come eventually,\" she said. \"I just never expected it to be him—or that fast.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "Without that first check-in, Jordan wouldn't have known where to start looking."
         }
       ]
     },
@@ -1769,41 +1878,247 @@
       ]
     },
     {
-      "id": 29,
-      "publishOn": "2026-12-21",
+      "id": 37,
+      "publishOn": "2026-12-23",
       "template": "story",
       "tag": "STORY",
-      "title": "Her Last Check-In Was in the Hospital Parking Lot at 2:10 AM",
+      "title": "She Told Her Carers Which Dive Shop She Was Going Out With",
       "readTime": "1 min read",
       "character": "ArticleCora",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Megan is a night-shift nurse. Her boyfriend Jordan lives across town and works a standard nine-to-five, meaning their schedules barely overlap except on weekends."
+          "text": "Chloe, a freelance illustrator, went on a solo diving trip to a small island in the Bahamas. Before she left, she did two things: she set her ANLY check-in frequency to every 12 hours, and she posted her itinerary in her ANLY Room, including the name of the dive shop and where she was staying."
         },
         {
           "kind": "paragraph",
-          "text": "They have a simple agreement: every night after her shift, Megan checks in on ANLY with location sharing on as she leaves the hospital, and taps again once she gets home. Jordan usually wakes up to see both check-ins waiting."
+          "text": "On the third day, while walking back from the boat, she slipped on the rocky pier. Her ankle swelled up immediately, and the phone in her shorts pocket fell straight into the ocean."
         },
         {
           "kind": "paragraph",
-          "text": "At 3:00 AM that morning, Jordan woke up and checked his phone out of habit. The first check-in was there—2:10 AM, Hospital Parking Lot. The second one wasn't. Her drive home only took twenty minutes."
+          "text": "The dive shop staff took her to the island's only clinic. Without her phone, she couldn't contact anyone, and she couldn't recite a single phone number from memory."
         },
         {
           "kind": "paragraph",
-          "text": "He called, and it went straight to voicemail. He tried again—still no answer."
+          "text": "That evening, she missed her check-in. Her best friend Maya in New York saw the alert, checked the itinerary in the Room, and called the dive shop directly. The staff told her exactly where Chloe was."
         },
         {
           "kind": "paragraph",
-          "text": "Jordan drove to the hospital and followed her usual route home from there. Ten minutes in, he spotted her car pulled onto the shoulder. Megan was sitting on the curb with a scraped arm and a sprained ankle; another driver had swerved into her lane, forcing her off the road and shattering her phone in the crash."
+          "text": "Maya then called the clinic, finally getting to speak with Chloe. From the US, Maya helped her handle the travel insurance claims and rebooked her ferry back to Nassau."
         },
         {
           "kind": "paragraph",
-          "text": "\"I knew someone would come eventually,\" she said. \"I just never expected it to be him—or that fast.\""
+          "text": "\"I was stuck on an island with no phone,\" Chloe said, \"but someone back home knew exactly who to call.\""
         },
         {
           "kind": "paragraph",
-          "text": "Without that first check-in, Jordan wouldn't have known where to start looking."
+          "text": "Sharing your itinerary before a trip takes just two minutes, but when something goes wrong, it can save you hours."
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "publishOn": "2026-12-23",
+      "template": "story",
+      "tag": "STORY",
+      "title": "She Had an Allergic Reaction at a Kyoto Restaurant, and Her Phone Was at the Hostel",
+      "readTime": "1 min read",
+      "character": "ArticleCora",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Rachel went on a five-day solo trip to Kyoto. Before leaving, she sent the name of her hostel to her best friend Megan in Chicago, and they agreed that Rachel would check in on ANLY every night when she got back to her room. They usually only caught up every week or two."
+        },
+        {
+          "kind": "paragraph",
+          "text": "On her third night, she went out for dinner, taking only her wallet and leaving her phone at the hostel to charge. The dish she ordered contained shrimp paste, which she was allergic to. After just a few bites, she started having trouble breathing. The restaurant staff called an ambulance and rushed her to the hospital."
+        },
+        {
+          "kind": "paragraph",
+          "text": "That night, she missed her check-in. Megan received the alert, and when her texts went unanswered, she remembered the name of the hostel and gave them a call. The front desk said Rachel had gone out for the evening and hadn't returned yet, but they promised to help call nearby hospitals."
+        },
+        {
+          "kind": "paragraph",
+          "text": "An hour later, the receptionist called Megan back: Rachel was at the hospital and her condition had stabilized. Megan was able to speak with Rachel through the hospital's phone and then helped notify her family back in the US."
+        },
+        {
+          "kind": "paragraph",
+          "text": "\"I just went out to grab a quick dinner,\" Rachel said. \"I never expected that one meal would completely cut me off from everyone for the entire night.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "When traveling alone, share your accommodation details with a friend. If you miss a check-in, they'll know exactly where to start looking."
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "publishOn": "2026-12-23",
+      "template": "note",
+      "tag": "A LITTLE NOTE",
+      "title": "Eating Alone Can Still Mean Eating Well",
+      "readTime": "1 min read",
+      "character": "ArticleMimi",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Many people assume that living alone means being lonely. But that's not really true."
+        },
+        {
+          "kind": "paragraph",
+          "text": "When you live alone, you get to decide what to have for dinner, what time to go to bed, and whether or not you want to go out on the weekend. You can decorate your space exactly the way you like it, or you can do absolutely nothing and just lie on the couch listening to music all afternoon."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Living solo doesn't require sympathy, and it doesn't need to be explained."
+        },
+        {
+          "kind": "paragraph",
+          "text": "However, this freedom does come with one small trade-off: when you actually need help, there might not be anyone around who knows."
+        },
+        {
+          "kind": "paragraph",
+          "text": "That's why we don't need to change the way we live alone; we just need a very light connection. A simple tap every day lets the people who care about you know that you're doing fine today. The rest of the time, you're still you, completely free and independent."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Eating alone can still mean eating well. Just remember that somewhere far away, someone will see your water drop turn blue."
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "publishOn": "2026-12-23",
+      "template": "note",
+      "tag": "A LITTLE NOTE",
+      "title": "If Something Happens to Me, Who Will Take Care of My Cat?",
+      "readTime": "1 min read",
+      "character": "ArticleMimi",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Olivia lives alone with her cat, Mochi. Once, when she was unexpectedly hospitalized for three days, a sudden thought hit her: If no one knew she was in the hospital, what would happen to Mochi?"
+        },
+        {
+          "kind": "paragraph",
+          "text": "For many people who live alone, they aren't actually the only ones in the house. There's also a cat, a dog, or a tank of fish, waiting for them to come home every day."
+        },
+        {
+          "kind": "paragraph",
+          "text": "After that experience, Olivia did three things. She gave a spare key to her friend Kevin, who lives nearby, and added him as a Carer on ANLY. She stuck a note on her fridge detailing Mochi's food portions and the vet's phone number. She also made an agreement with Kevin: if she ever missed a check-in and couldn't be reached, he would go over and check on her."
+        },
+        {
+          "kind": "paragraph",
+          "text": "\"I'm not just building a safety net for myself,\" Olivia said. \"I'm doing it for Mochi, too.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "Taking good care of yourself is also taking care of the little lives that depend on you."
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "publishOn": "2026-12-25",
+      "template": "note",
+      "tag": "A LITTLE NOTE",
+      "title": "After Thirty, You Don't Lose Friends; They Just Get Quieter",
+      "readTime": "1 min read",
+      "character": "ArticleMimi",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "In your twenties, you see your friends every week, and your group chats are flooded with hundreds of messages a day."
+        },
+        {
+          "kind": "paragraph",
+          "text": "After thirty, someone gets married, someone moves to another city, and someone takes on a demanding new job. The group chats grow quieter, and getting together requires planning a month in advance."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Many people think this means the friendships are fading. But that's not necessarily true. Everyone is just busy navigating their own lives, unsure of how to say \"I'm still here\" without being intrusive."
+        },
+        {
+          "kind": "paragraph",
+          "text": "One group of friends found a solution: they added each other as Carers on ANLY and check in individually every day. There's no need to make small talk; just seeing each other's water drops turn blue is enough to know everyone is doing well."
+        },
+        {
+          "kind": "paragraph",
+          "text": "If someone checks in late for a few days in a row, someone else will simply ask, \"Everything okay lately?\" And just like that, they end up scheduling a dinner they haven't had in a long time."
+        },
+        {
+          "kind": "paragraph",
+          "text": "You don't have fewer friends. You just need a quieter way to stay in each other's lives."
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "publishOn": "2026-12-25",
+      "template": "story",
+      "tag": "STORY",
+      "title": "Three Siblings Teaming Up to Care for Their Parents Back Home",
+      "readTime": "1 min read",
+      "character": "ArticleCora",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "The three siblings had all moved away from their hometown in Milwaukee, Wisconsin. David, the oldest brother, lived in Chicago; Anna, the middle sister, was in Indianapolis; and Emma, the youngest, was in Minneapolis. Their parents lived alone back home. They were still in relatively good health, but they were getting older."
+        },
+        {
+          "kind": "paragraph",
+          "text": "In the past, the siblings would often ask in their group chat, \"Who called Mom and Dad recently?\" The result was usually either all three calling on the exact same day, or an entire week going by with no one calling at all."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Eventually, they reorganized their approach. Emma helped their parents set up ANLY and added all three siblings as Carers. Now, their parents check in every morning after their walk, and all three kids can see it."
+        },
+        {
+          "kind": "paragraph",
+          "text": "They also made a plan: if their parents miss a check-in, David, who lives the closest, calls first. If he can't reach them, he calls their uncle Bill, who lives next door. Anna is in charge of the Sunday video calls, and Emma handles the monthly doctor appointment reminders."
+        },
+        {
+          "kind": "paragraph",
+          "text": "\"We all used to worry a lot, but no one really knew what to do,\" Anna said. \"Now, everyone knows exactly what their role is.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "Caring for your parents doesn't mean you have to live with them. With clear roles, the distance doesn't feel so far anymore."
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "publishOn": "2026-12-25",
+      "template": "list",
+      "tag": "GOOD TO KNOW",
+      "title": "Living Alone? 5 Rules for Who Should Get Your Spare Key",
+      "readTime": "1 min read",
+      "character": "ArticleWally",
+      "blocks": [
+        {
+          "kind": "step",
+          "text": "Give it to someone who lives close by, ideally someone who can get to your place within twenty minutes."
+        },
+        {
+          "kind": "step",
+          "text": "Choose someone you truly trust, and who is willing to answer their phone in the middle of the night."
+        },
+        {
+          "kind": "step",
+          "text": "Prepare at least two copies: one for a friend or family member, and one for your building manager or landlord."
+        },
+        {
+          "kind": "step",
+          "text": "Add the person holding your key as a Carer on ANLY, so they know to check on you if you miss a check-in."
+        },
+        {
+          "kind": "step",
+          "text": "Remember to ask for the key back if you change your locks or move out."
+        },
+        {
+          "kind": "paragraph",
+          "text": "A spare key is often the deciding factor in whether someone can reach you in time."
         }
       ]
     }
