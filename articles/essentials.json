@@ -1590,6 +1590,37 @@
       ]
     },
     {
+      "id": 14,
+      "publishOn": "2026-12-18",
+      "template": "tip",
+      "tag": "DID YOU KNOW?",
+      "title": "About Half of U.S. Adults Are Experiencing Loneliness",
+      "readTime": "1 min read",
+      "character": "ArticleMiu",
+      "blocks": [
+        {
+          "kind": "bigNumber",
+          "text": "1 in 2"
+        },
+        {
+          "kind": "paragraph",
+          "text": "According to a 2023 advisory from the U.S. Surgeon General, about half of U.S. adults reported experiencing loneliness. The health impact of prolonged loneliness and isolation has even been compared to smoking up to 15 cigarettes a day."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Feeling lonely is not necessarily about whether you have people around you. Many people have families, friends, and coworkers, yet still feel like no one truly knows if they are doing okay today. Being left on read has become a daily routine, and \"How are you?\" has turned into a greeting no one expects a real answer to."
+        },
+        {
+          "kind": "paragraph",
+          "text": "ANLY is not trying to keep everyone under constant surveillance. Instead, it offers a very light way for people who care about each other to maintain a simple connection—just enough to say, \"I know you are okay today.\""
+        },
+        {
+          "kind": "source",
+          "text": "Source: U.S. Surgeon General Advisory, Our Epidemic of Loneliness and Isolation (2023)"
+        }
+      ]
+    },
+    {
       "id": 364,
       "publishOn": "2026-12-18",
       "template": "story",
@@ -2018,6 +2049,37 @@
       ]
     },
     {
+      "id": 4,
+      "publishOn": "2026-12-25",
+      "template": "tip",
+      "tag": "DID YOU KNOW?",
+      "title": "Nearly 1 in 3 U.S. Households Is Just One Person",
+      "readTime": "1 min read",
+      "character": "ArticleMiu",
+      "blocks": [
+        {
+          "kind": "bigNumber",
+          "text": "1 in 3"
+        },
+        {
+          "kind": "paragraph",
+          "text": "According to the Families and Living Arrangements estimates released by the U.S. Census Bureau in November 2026, there are 40.5 million one-person households in the United States. That makes up 30% of all households, meaning nearly 1 in 3 homes has just one person living in it. To put that in perspective, back in 1976, that number was only 21%."
+        },
+        {
+          "kind": "paragraph",
+          "text": "In other words, living alone is no longer a rare choice—it is the new normal of our time. You likely have friends, coworkers, or even parents who are living by themselves right now."
+        },
+        {
+          "kind": "paragraph",
+          "text": "The issue has never been whether living alone is good or bad. The real question is: if something happens, would anyone notice? A daily check-in simply lets the people who care about you know you're okay, every day."
+        },
+        {
+          "kind": "source",
+          "text": "Source: U.S. Census Bureau, Families and Living Arrangements (2026)"
+        }
+      ]
+    },
+    {
       "id": 80,
       "publishOn": "2026-12-25",
       "template": "note",
@@ -2119,6 +2181,111 @@
         {
           "kind": "paragraph",
           "text": "A spare key is often the deciding factor in whether someone can reach you in time."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "publishOn": "2026-12-28",
+      "template": "tip",
+      "tag": "DID YOU KNOW?",
+      "title": "Every Day, About 113 Older Americans Die After a Fall",
+      "readTime": "1 min read",
+      "character": "ArticleMiu",
+      "blocks": [
+        {
+          "kind": "bigNumber",
+          "text": "113 a day"
+        },
+        {
+          "kind": "paragraph",
+          "text": "According to the CDC's National Center for Health Statistics, about 41,400 adults aged 65 and older died from unintentional falls in the United States in 2023. That is an average of about 113 people every single day. Falls remain the leading cause of injury-related death for older Americans. Looking globally, the World Health Organization estimates that 684,000 people die from falls each year, with older adults at the highest risk."
+        },
+        {
+          "kind": "paragraph",
+          "text": "A fall sounds like a common, everyday accident, but it usually happens when we are least prepared: in the bathroom, on the stairs, or just walking across the living room floor. Often, the real danger is not the fall itself, but the fact that no one knows it happened."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Checking in once a day cannot prevent accidents, but it can shorten that dangerous blank space between falling and being found."
+        },
+        {
+          "kind": "source",
+          "text": "Sources: CDC NCHS Data Brief No. 532; CDC Older Adult Falls Data; WHO Falls Fact Sheet"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "publishOn": "2026-12-28",
+      "template": "story",
+      "tag": "STORY",
+      "title": "Her Husband Was Relocated to Vietnam, and She Caught a High Fever Alone with the Baby",
+      "readTime": "1 min read",
+      "character": "ArticleCora",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Hannah's husband was relocated to Vietnam for work, only flying back to the U.S. three or four times a year. She lived in Seattle with their one-year-old son, while her parents were down in Portland. The couple usually stayed in touch through text messages, but her husband was often busy and replied late."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Before he left, they set up ANLY together. Hannah checked in every morning before 9:00 AM. Her husband, her mom, and her close friend Kate, who lived in the same neighborhood, were all her Carers."
+        },
+        {
+          "kind": "paragraph",
+          "text": "That Saturday, Hannah caught a terrible fever that spiked near 104 degrees. Exhausted, she fell asleep on the couch holding her baby. By noon, her check-in still had not appeared."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Kate received the alert. When Hannah didn't pick up her phone, Kate walked straight over and rang the doorbell. Hannah barely managed to get up and open the door. Seeing how sick she was, Kate immediately took the baby and then drove Hannah to the ER."
+        },
+        {
+          "kind": "paragraph",
+          "text": "When her husband saw the messages in Vietnam, he immediately called Kate to thank her and booked a flight back to Seattle that very night."
+        },
+        {
+          "kind": "paragraph",
+          "text": "\"My husband is seven thousand miles away,\" Hannah said. \"But Kate is only a few blocks down the street.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "In an expat family, the partner who stays behind needs a safety net that is a little closer to home."
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "publishOn": "2027-02-01",
+      "template": "story",
+      "tag": "STORY",
+      "title": "Three Days Without Cell Service, but Everyone Knew the Plan",
+      "readTime": "1 min read",
+      "character": "ArticleCora",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Aaron shoots documentary films about mountaineering. Before heading into remote areas, he always does the same thing: he posts his itinerary in his ANLY Room, noting the dates he will be without cell service and the name of his local guide. He also keeps his location sharing on for the entire trip."
+        },
+        {
+          "kind": "paragraph",
+          "text": "While trekking in northern Pakistan, he expected to have no signal for almost three days. On the morning he started the trail, he checked in at the trailhead and set his ANLY check-in frequency to every 3 days, planning to check in again when he reached a village at the end of the route on the third evening."
+        },
+        {
+          "kind": "paragraph",
+          "text": "The third evening passed, and he did not check in. By the fourth day, his producer Ivy and his other Carers received a missed check-in alert. Ivy opened the Room, and the plan was right there: the route, the dates, the guide's name, and the guide company's phone number."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Ivy called the company, and they reached the guide via satellite phone. It turned out a landslide had blocked the trail, forcing the group to take a longer detour. Aaron had twisted his knee during the detour and was moving slowly, but the guide stayed right by his side. The company dispatched a jeep to pick them up at the next village."
+        },
+        {
+          "kind": "paragraph",
+          "text": "\"If that plan wasn't in the Room, Ivy wouldn't have known who to call,\" Aaron said. \"She would have just been waiting.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "Before heading into an area with no cell service, tell your Carers: where you are going, when, and who you are with."
         }
       ]
     }
