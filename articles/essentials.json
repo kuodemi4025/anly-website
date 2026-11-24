@@ -2379,6 +2379,80 @@
       ]
     },
     {
+      "id": 62,
+      "publishOn": "2026-12-30",
+      "template": "list",
+      "tag": "GOOD TO KNOW",
+      "title": "What Happens If You Forget to Check In?",
+      "readTime": "1 min read",
+      "character": "ArticleWally",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Many people ask when they first use ANLY: What if I just forget to check in? Will everyone panic?"
+        },
+        {
+          "kind": "step",
+          "text": "You can pick a time of day that works for you and make it a habit to check in."
+        },
+        {
+          "kind": "step",
+          "text": "If you don't check in on time, your Carers get an alert."
+        },
+        {
+          "kind": "step",
+          "text": "The first thing people usually do when they get an alert is text or call you; most of the time, you're just busy."
+        },
+        {
+          "kind": "step",
+          "text": "If you know you'll be late checking in, like when you're on a flight or in a meeting, you can let your Carers know ahead of time."
+        },
+        {
+          "kind": "step",
+          "text": "Once you catch up and check in, Wally turns blue, and everyone knows you're safe."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Missing a check-in doesn't mean something bad happened. It just lets the people who care about you know it's time to check in on you."
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "publishOn": "2027-01-25",
+      "template": "list",
+      "tag": "GOOD TO KNOW",
+      "title": "5 Simple Steps to Help Your Parents Set Up ANLY",
+      "readTime": "1 min read",
+      "character": "ArticleWally",
+      "blocks": [
+        {
+          "kind": "step",
+          "text": "Help them pick a time of day to check in and make it a habit, like after their morning walk or breakfast."
+        },
+        {
+          "kind": "step",
+          "text": "Make the font size larger on their phone and put the ANLY app on the home screen where it's easy to find."
+        },
+        {
+          "kind": "step",
+          "text": "Decide together who their Carers should be: siblings, nearby relatives, or neighbors."
+        },
+        {
+          "kind": "step",
+          "text": "Ask if they want to turn on location sharing for their check-ins, and let them make the decision."
+        },
+        {
+          "kind": "step",
+          "text": "Practice checking in with them once a day for the first week until it becomes a habit."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Technology isn't the hard part. The hard part is helping your parents feel like this is about peace of mind for everyone, not about keeping tabs on them."
+        }
+      ]
+    },
+    {
       "id": 41,
       "publishOn": "2027-02-01",
       "template": "story",
@@ -2410,6 +2484,41 @@
         {
           "kind": "paragraph",
           "text": "Before heading into an area with no cell service, tell your Carers: where you are going, when, and who you are with."
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "publishOn": "2027-02-03",
+      "template": "list",
+      "tag": "BEFORE YOU GO",
+      "title": "5 Things to Remember Before a Solo Road Trip",
+      "readTime": "1 min read",
+      "character": "ArticleWally",
+      "blocks": [
+        {
+          "kind": "step",
+          "text": "Tell a friend your route and estimated time of arrival before you hit the road."
+        },
+        {
+          "kind": "step",
+          "text": "Take a break every two hours and check in at the rest stop, and turn on location sharing for your check-ins if you need it."
+        },
+        {
+          "kind": "step",
+          "text": "Check ahead of time to see where you might lose cell service along the way."
+        },
+        {
+          "kind": "step",
+          "text": "Keep water, a portable charger, a flashlight, and a warm jacket in your car."
+        },
+        {
+          "kind": "step",
+          "text": "Check in as soon as you arrive, so the people waiting for you know you made it."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Driving alone gives you a lot of freedom, but you still want someone to know roughly where you are."
         }
       ]
     },
@@ -2453,6 +2562,41 @@
         {
           "kind": "paragraph",
           "text": "Adventure is a lot more fun when you know someone has your back."
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "publishOn": "2027-02-17",
+      "template": "list",
+      "tag": "BEFORE YOU GO",
+      "title": "5 Things to Tell Your Carers Before a Hike",
+      "readTime": "1 min read",
+      "character": "ArticleWally",
+      "blocks": [
+        {
+          "kind": "step",
+          "text": "Which route you're taking and which trailhead you're starting from."
+        },
+        {
+          "kind": "step",
+          "text": "What time you plan to be back down, and when they should start reaching out if they haven't heard from you."
+        },
+        {
+          "kind": "step",
+          "text": "Who you're going with, and the phone number of a hiking buddy."
+        },
+        {
+          "kind": "step",
+          "text": "If you're driving, send your license plate and where you parked to a friend."
+        },
+        {
+          "kind": "step",
+          "text": "Check in at the trailhead, at the summit, and when you're back down, and turn on location sharing for your check-ins if you need it."
+        },
+        {
+          "kind": "paragraph",
+          "text": "These details only take five minutes to share, but if something goes wrong, they can save search and rescue teams hours of time."
         }
       ]
     }
