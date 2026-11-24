@@ -2397,7 +2397,7 @@
         },
         {
           "kind": "step",
-          "text": "If you don't check in on time, your Carers get an alert."
+          "text": "If your check-in time runs out, your Carers get an alert."
         },
         {
           "kind": "step",
