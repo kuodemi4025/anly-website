@@ -444,6 +444,7 @@
       "title": "In an Old Riad in Marrakech, She Fell Down the Rooftop Stairs",
       "readTime": "2 min read",
       "character": "ArticleCora",
+      "hero": "https://anly.app/articles/img/340-marrakech-riad.png",
       "blocks": [
         {
           "kind": "paragraph",
@@ -1606,6 +1607,7 @@
       "title": "About Half of U.S. Adults Are Experiencing Loneliness",
       "readTime": "1 min read",
       "character": "ArticleMiu",
+      "hero": "https://anly.app/articles/img/14-lonely-city-windows.png",
       "blocks": [
         {
           "kind": "bigNumber",
@@ -1780,6 +1782,7 @@
       "title": "She Didn't Make It Home from Her Evening Run Today",
       "readTime": "2 min read",
       "character": "ArticleCora",
+      "hero": "https://anly.app/articles/img/9-riverside-evening-run.png",
       "blocks": [
         {
           "kind": "paragraph",
@@ -1815,6 +1818,7 @@
       "title": "My First Year Living Alone in a New City",
       "readTime": "2 min read",
       "character": "ArticleCora",
+      "hero": "https://anly.app/articles/img/12-first-year-alone.png",
       "blocks": [
         {
           "kind": "paragraph",
@@ -1850,6 +1854,7 @@
       "title": "Her Last Check-In Was in the Hospital Parking Lot at 2:10 AM",
       "readTime": "1 min read",
       "character": "ArticleCora",
+      "hero": "https://anly.app/articles/img/29-hospital-car-park.png",
       "blocks": [
         {
           "kind": "paragraph",
