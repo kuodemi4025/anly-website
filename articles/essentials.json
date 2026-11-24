@@ -2418,6 +2418,37 @@
       ]
     },
     {
+      "id": 88,
+      "publishOn": "2027-01-04",
+      "template": "list",
+      "tag": "GOOD TO KNOW",
+      "title": "4 Things to Do When You Get a Missed Check-In Alert",
+      "readTime": "1 min read",
+      "character": "ArticleWally",
+      "blocks": [
+        {
+          "kind": "step",
+          "text": "Send a text or give them a call first. Most of the time, they are just busy or their phone battery died."
+        },
+        {
+          "kind": "step",
+          "text": "If you can't reach them, think about where they might be today. If they have location sharing on for their check-ins, look at where their last check-in was."
+        },
+        {
+          "kind": "step",
+          "text": "Ask someone nearby to check on them, like a neighbor, the building manager, or a friend with a spare key."
+        },
+        {
+          "kind": "step",
+          "text": "If you still can't get in touch and have reason to be concerned, don't hesitate to call 911."
+        },
+        {
+          "kind": "paragraph",
+          "text": "There's no need to panic when you receive an alert, but don't ignore it either. Taking things one calm step at a time is the best way to show you care."
+        }
+      ]
+    },
+    {
       "id": 85,
       "publishOn": "2027-01-25",
       "template": "list",
@@ -2449,6 +2480,41 @@
         {
           "kind": "paragraph",
           "text": "Technology isn't the hard part. The hard part is helping your parents feel like this is about peace of mind for everyone, not about keeping tabs on them."
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "publishOn": "2027-01-27",
+      "template": "list",
+      "tag": "GOOD TO KNOW",
+      "title": "5 Winter Safety Tips for Seniors Living Alone",
+      "readTime": "1 min read",
+      "character": "ArticleWally",
+      "blocks": [
+        {
+          "kind": "step",
+          "text": "Don't get out of bed too quickly in the morning. Sit on the edge of the bed for a moment first."
+        },
+        {
+          "kind": "step",
+          "text": "Warm up the bathroom before taking a shower, and ensure your water heater is properly ventilated to prevent carbon monoxide buildup."
+        },
+        {
+          "kind": "step",
+          "text": "Add an extra layer before heading out. A hat and scarf are essential during a cold snap."
+        },
+        {
+          "kind": "step",
+          "text": "Keep warm with a heater or an electric blanket, but don't leave a space heater on all night while you sleep."
+        },
+        {
+          "kind": "step",
+          "text": "Agree on a daily check-in routine with your family during a winter storm. If your check-in is later than usual, they'll know to give you a call."
+        },
+        {
+          "kind": "paragraph",
+          "text": "On freezing days, one phone call and a simple check-in could help your family spot trouble just a little bit earlier."
         }
       ]
     },
@@ -2598,6 +2664,41 @@
         {
           "kind": "paragraph",
           "text": "These details only take five minutes to share, but if something goes wrong, they can save search and rescue teams hours of time."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "publishOn": "2027-04-05",
+      "template": "story",
+      "tag": "STORY",
+      "title": "A Check-In at the Truck Stop, Then Silence",
+      "readTime": "2 min read",
+      "character": "ArticleCora",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "David drives a long-haul truck on the night shift, usually making the round trip between Dallas and Houston."
+        },
+        {
+          "kind": "paragraph",
+          "text": "His wife, Sarah, is mostly asleep while he works, so they rarely talk during his shift. They have a routine: he checks in on ANLY when he takes a break at a truck stop, with location sharing on for his check-ins. Once he arrives at the freight terminal, he texts her, \"I'm here.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "Sarah sets an alarm for 4:00 a.m. to quickly check her phone. That night, a check-in appeared at 1:50 a.m. at a rest area near Centerville. But the \"I'm here\" text never came. By 4:30 a.m., she had called four times with no answer."
+        },
+        {
+          "kind": "paragraph",
+          "text": "She called the state highway patrol and gave them the name of the rest area from his last check-in. Troopers found his truck still parked there. David was in the driver's seat, sweating and clutching his chest, feeling so unwell that he couldn't even reach his phone on the dashboard."
+        },
+        {
+          "kind": "paragraph",
+          "text": "He was taken to a nearby hospital. The doctor told him that getting medical help early was crucial."
+        },
+        {
+          "kind": "paragraph",
+          "text": "\"I always thought the check-ins were just to help me sleep peacefully,\" Sarah said. \"That night, that one check-in told me exactly where to start looking.\""
         }
       ]
     }
