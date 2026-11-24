@@ -2255,6 +2255,130 @@
       ]
     },
     {
+      "id": 18,
+      "publishOn": "2026-12-28",
+      "template": "list",
+      "tag": "GOOD TO KNOW",
+      "title": "3 Small Things You Can Do on a Bad Day",
+      "readTime": "1 min read",
+      "character": "ArticleWally",
+      "blocks": [
+        {
+          "kind": "step",
+          "text": "Get something to eat or drink. When you're feeling down, your body is often more exhausted than you realize."
+        },
+        {
+          "kind": "step",
+          "text": "Send a quick message to someone you trust. You don't need to explain much—just saying \"I'm a bit drained today\" is enough."
+        },
+        {
+          "kind": "step",
+          "text": "Check in a little early. It's not about reassuring someone else, but reminding yourself: today, you still need to take good care of yourself."
+        },
+        {
+          "kind": "paragraph",
+          "text": "On a bad day, you don't have to bounce back right away. But you can start by doing one small, kind thing for yourself."
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "publishOn": "2026-12-28",
+      "template": "list",
+      "tag": "GOOD TO KNOW",
+      "title": "How to Pick a Check-In Moment You Won't Forget",
+      "readTime": "1 min read",
+      "character": "ArticleWally",
+      "blocks": [
+        {
+          "kind": "step",
+          "text": "Tie it to something you already do every day, like having your first cup of coffee, finishing your commute, or brushing your teeth at night."
+        },
+        {
+          "kind": "step",
+          "text": "Pick a moment when you're almost always awake with your phone nearby. If you sleep in on weekends, don't pick the moment you first wake up."
+        },
+        {
+          "kind": "step",
+          "text": "If your daily schedule changes a lot, pick a later moment in the day so you won't feel rushed."
+        },
+        {
+          "kind": "paragraph",
+          "text": "The best check-in moment is the one that naturally becomes a habit."
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "publishOn": "2026-12-30",
+      "template": "story",
+      "tag": "STORY",
+      "title": "After Retirement, Checking In Became Dad's Reason to Go Out",
+      "readTime": "1 min read",
+      "character": "ArticleCora",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Mr. Davis retired this past June. After thirty years of leaving for work at 7:00 AM every day, he suddenly didn't know what to do with his mornings."
+        },
+        {
+          "kind": "paragraph",
+          "text": "His son lives in Seattle and his daughter is in Los Angeles. Both noticed their dad was getting quieter on the phone. Their mom mentioned he was spending most days just sitting at home watching TV."
+        },
+        {
+          "kind": "paragraph",
+          "text": "His daughter came up with an idea. She helped him set up ANLY and asked him to take a walk in the nearby park every morning, then check in when he was done. \"That way, we'll know you got out of the house today.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "At first, he thought it was a bit unnecessary, but he's a man of his word. Every morning, he headed out right on schedule. Slowly, he got to know a morning walking group at the park, and later he even joined a community woodworking class."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Lately, his check-ins have been getting later and later. When his daughter asked him why, he replied, \"I check in after my woodworking class now. Is that a problem?\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "Retirement isn't just about leaving a job; it's about finding a new rhythm in life. Sometimes, a small daily promise is all it takes to take that first step."
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "publishOn": "2026-12-30",
+      "template": "story",
+      "tag": "STORY",
+      "title": "When the Hurricane Flooded the House, Grandma Climbed to the Second Floor",
+      "readTime": "1 min read",
+      "character": "ArticleCora",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Grandma lives alone in a two-story house near the Louisiana coast. Her grandson, Jake, works in Chicago and visits her about once a month. He helped her set up ANLY, and they made a habit of her checking in every morning after she finished watering her plants."
+        },
+        {
+          "kind": "paragraph",
+          "text": "That year, a hurricane brought massive flooding. In the middle of the night, water started pouring into the first floor. Grandma is older but very calm; she grabbed a flashlight and climbed up to the second floor. Her phone was left charging in the living room downstairs, and she couldn't go back for it."
+        },
+        {
+          "kind": "paragraph",
+          "text": "That morning, her check-in never came. Later, Jake got an alert. He tried calling her, but no one answered. Then he saw on the news that her town was severely flooded."
+        },
+        {
+          "kind": "paragraph",
+          "text": "He immediately called the local sheriff's office. They told him the water was above knee-level in many neighborhoods and they were going door-to-door checking on elderly residents. Jake gave them Grandma's address. First responders took a rescue boat over and found her on the second floor. She was cold and hungry, but safe."
+        },
+        {
+          "kind": "paragraph",
+          "text": "\"I was in Chicago and couldn't do anything myself,\" Jake said. \"But at least I knew exactly who to call right away.\""
+        },
+        {
+          "kind": "paragraph",
+          "text": "During a natural disaster, what seniors living alone need most is for someone to notice something is wrong earlier than usual."
+        }
+      ]
+    },
+    {
       "id": 41,
       "publishOn": "2027-02-01",
       "template": "story",
@@ -2286,6 +2410,49 @@
         {
           "kind": "paragraph",
           "text": "Before heading into an area with no cell service, tell your Carers: where you are going, when, and who you are with."
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "publishOn": "2027-02-10",
+      "template": "list",
+      "tag": "BEFORE YOU GO",
+      "title": "7 Things to Do Before Traveling Solo to a Remote Country",
+      "readTime": "1 min read",
+      "character": "ArticleWally",
+      "blocks": [
+        {
+          "kind": "step",
+          "text": "Book a local guide in remote areas and save both their personal and company phone numbers."
+        },
+        {
+          "kind": "step",
+          "text": "Enroll your trip in the Smart Traveler Enrollment Program (STEP)."
+        },
+        {
+          "kind": "step",
+          "text": "Post your itinerary and dates in your ANLY Room, making sure to note any days you expect to be without a signal."
+        },
+        {
+          "kind": "step",
+          "text": "Adjust your check-in frequency based on your plans, such as every 12 hours."
+        },
+        {
+          "kind": "step",
+          "text": "Decide which parts of your trip you want to turn on location sharing for, like during hikes, border crossings, or long drives."
+        },
+        {
+          "kind": "step",
+          "text": "Bring a power bank and a backup way to communicate, like a local SIM card or a satellite messenger."
+        },
+        {
+          "kind": "step",
+          "text": "Agree with your Carers on what to do if you miss a check-in—who they should call and how long they should wait."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Adventure is a lot more fun when you know someone has your back."
         }
       ]
     }
