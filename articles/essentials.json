@@ -1930,6 +1930,7 @@
       "title": "She Told Her Carers Which Dive Shop She Was Going Out With",
       "readTime": "1 min read",
       "character": "ArticleCora",
+      "hero": "https://anly.app/articles/img/37-island-dive-shop.png",
       "blocks": [
         {
           "kind": "paragraph",
@@ -1969,6 +1970,7 @@
       "title": "She Had an Allergic Reaction at a Kyoto Restaurant, and Her Phone Was at the Hostel",
       "readTime": "1 min read",
       "character": "ArticleCora",
+      "hero": "https://anly.app/articles/img/74-kyoto-guesthouse.png",
       "blocks": [
         {
           "kind": "paragraph",
@@ -2004,6 +2006,7 @@
       "title": "Eating Alone Can Still Mean Eating Well",
       "readTime": "1 min read",
       "character": "ArticleMimi",
+      "hero": "https://anly.app/articles/img/77-eating-well-alone.png",
       "blocks": [
         {
           "kind": "paragraph",
@@ -2070,6 +2073,7 @@
       "title": "Nearly 1 in 3 U.S. Households Is Just One Person",
       "readTime": "1 min read",
       "character": "ArticleMiu",
+      "hero": "https://anly.app/articles/img/4-one-person-homes.png",
       "blocks": [
         {
           "kind": "bigNumber",
@@ -2101,6 +2105,7 @@
       "title": "After Thirty, You Don't Lose Friends; They Just Get Quieter",
       "readTime": "1 min read",
       "character": "ArticleMimi",
+      "hero": "https://anly.app/articles/img/80-quiet-friends-table.png",
       "blocks": [
         {
           "kind": "paragraph",
