@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  WALLY · master element (front view) · v2 · approved 2026-10-18 · ちいかわ-style (soft plum hand-drawn line)
+  Anly studio. Water-drop shape in the Anly app mascot colours, with a soft ombré.
+  Local frame: centre x 200, ground y 347. Scale the whole file; never redraw parts.
+  Layer ids are the animation rig. See wally.md for the rules.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <path id="wally-body-shape" d="M185 94 C 180 100 182 110 172 124 C 150 148 100 170 84 210 C 74 236 76 262 84 282 C 92 304 104 330 128 340 C 160 350 240 350 272 340 C 300 330 318 300 320 268 C 322 230 314 196 290 172 C 262 146 220 136 200 116 C 192 108 190 100 185 94 Z"/>
+    <clipPath id="wally-body-clip"><use href="#wally-body-shape"/></clipPath>
+    <linearGradient id="wally-ombre" gradientUnits="userSpaceOnUse" x1="0" y1="94" x2="0" y2="348">
+      <stop offset="0" stop-color="#c3d8f3"/>
+      <stop offset=".45" stop-color="#a9c6ec"/>
+      <stop offset="1" stop-color="#90b2e2"/>
+    </linearGradient>
+    <filter id="wally-watercolour" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="2" seed="4" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="14" xChannelSelector="R" yChannelSelector="G" result="wobble"/>
+      <feGaussianBlur in="wobble" stdDeviation="7"/>
+    </filter>
+    <filter id="handline" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="3" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="3" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+
+  <g id="art" filter="url(#handline)">
+  <ellipse id="shadow" cx="200" cy="348" rx="82" ry="7" fill="#060e2c" opacity=".18"/>
+
+  <g id="wally">
+    <!-- arms, back layer: outlined nubs -->
+    <circle id="arm-left-back" cx="76" cy="279" r="15" fill="url(#wally-ombre)" stroke="#4a3a48" stroke-width="3.4"/>
+    <g id="arm-right-back"><circle cx="326" cy="278" r="15" fill="url(#wally-ombre)" stroke="#4a3a48" stroke-width="3.4"/></g>
+
+    <!-- body: ombré fill, soft washes, outline -->
+    <g id="body">
+      <use href="#wally-body-shape" fill="url(#wally-ombre)"/>
+      <g id="wash" clip-path="url(#wally-body-clip)">
+        <path id="wash-bottom" filter="url(#wally-watercolour)" fill="#86aadd" opacity=".25"
+          d="M40 296 C 90 280 130 300 160 292 C 196 282 222 296 252 286 C 282 276 314 286 360 272 L 360 380 L 40 380 Z"/>
+        <path id="wash-side" filter="url(#wally-watercolour)" fill="#86aadd" opacity=".15"
+          d="M64 226 C 92 232 104 258 126 272 C 106 286 84 288 64 284 Z"/>
+      </g>
+      <use href="#wally-body-shape" fill="none" stroke="#4a3a48" stroke-width="3.4" stroke-linejoin="round"/>
+    </g>
+
+    <!-- arms, front layer: fill only, hides the body line so each nub melts into the body -->
+    <circle id="arm-left-front" cx="78" cy="279" r="11.5" fill="url(#wally-ombre)"/>
+    <g id="arm-right-front"><circle cx="324" cy="278" r="11.5" fill="url(#wally-ombre)"/></g>
+
+    <!-- face -->
+    <g id="eyes">
+      <ellipse id="eye-left" cx="176" cy="236" rx="8.5" ry="9.5" fill="#4a3a48"/>
+      <ellipse id="eye-right" cx="228" cy="231" rx="8.5" ry="9.5" fill="#4a3a48"/>
+    </g>
+    <path id="mouth-smile" d="M191 260 Q203 274 215 260" fill="none" stroke="#4a3a48" stroke-width="3.4" stroke-linecap="round"/>
+    <path id="mouth-open" d="M190 258 Q203 280 216 258 Z" fill="#7a3546" stroke="#4a3a48" stroke-width="3.2" stroke-linejoin="round" display="none"/>
+  </g>
+  </g>
+</svg>

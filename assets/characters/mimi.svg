@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  MIMI · master element (front view) · v1 · approved 2026-10-18 · ちいかわ-style
+  Anly studio. Traced from Demi's Mimi reference; soft plum hand-drawn line, petal fins, starfish, hatched cheeks.
+  Local frame: centre x 200, ground y 347. Scale the whole file; never redraw parts.
+  Wave pivot for the right fin (#arm-right): 297.9, 236.2.  See mimi.md for the rules.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+      <path id="mimi-body-shape" d="M200.0 94.1 C 202.9 94.6 207.8 97.4 211.5 99.4 C 215.1 101.5 218.7 103.9 222.0 106.2 C 225.4 108.5 228.4 110.9 231.5 113.4 C 234.7 115.8 237.6 118.0 241.0 121.0 C 244.4 124.1 248.1 128.2 251.7 131.7 C 255.3 135.3 259.1 138.9 262.4 142.4 C 265.7 146.0 268.9 149.8 271.6 153.1 C 274.3 156.5 276.5 159.1 278.5 162.3 C 280.5 165.6 282.0 169.7 283.5 172.7 C 285.0 175.8 286.4 178.0 287.5 180.7 C 288.7 183.4 289.6 186.2 290.4 189.0 C 291.3 191.7 292.0 194.6 292.7 197.4 C 293.5 200.2 294.2 203.0 294.9 205.8 C 295.5 208.6 296.2 211.2 296.7 214.2 C 297.2 217.2 297.7 219.2 297.9 223.5 C 298.2 227.9 298.3 235.3 298.2 240.4 C 298.2 245.5 297.9 249.8 297.6 254.1 C 297.4 258.5 297.1 262.8 296.7 266.4 C 296.3 270.0 296.0 272.6 295.5 275.7 C 294.9 278.8 294.3 282.0 293.5 285.2 C 292.7 288.3 291.7 291.6 290.6 294.7 C 289.4 297.8 288.2 300.9 286.6 303.9 C 285.0 306.8 283.1 309.6 281.1 312.3 C 279.1 314.9 276.9 317.5 274.5 319.9 C 272.1 322.3 269.4 324.4 266.7 326.5 C 264.0 328.6 261.4 330.6 258.4 332.3 C 255.5 334.0 252.4 335.5 249.3 336.9 C 246.2 338.3 243.1 339.8 239.9 340.9 C 236.7 342.0 233.4 342.8 230.1 343.6 C 226.9 344.5 223.5 345.2 220.2 345.8 C 216.9 346.3 213.5 346.8 210.1 347.0 C 206.7 347.2 203.4 347.1 200.0 347.0 C 196.6 346.9 193.2 346.6 189.9 346.2 C 186.6 345.9 183.2 345.4 180.0 344.7 C 176.7 344.0 173.4 343.1 170.2 342.3 C 166.9 341.4 163.7 340.5 160.5 339.5 C 157.3 338.5 154.2 337.5 151.0 336.3 C 147.9 335.0 144.8 333.6 141.9 332.0 C 138.9 330.4 135.8 328.7 133.1 326.7 C 130.5 324.6 128.1 322.1 125.8 319.6 C 123.5 317.1 121.4 314.4 119.5 311.7 C 117.6 308.9 115.9 306.0 114.3 303.1 C 112.7 300.2 111.3 297.2 110.0 294.2 C 108.8 291.2 107.9 288.0 107.0 284.9 C 106.1 281.8 105.2 278.8 104.5 275.7 C 103.9 272.6 103.3 270.1 103.0 266.5 C 102.7 262.9 102.7 258.5 102.7 254.1 C 102.6 249.8 102.6 245.5 102.7 240.4 C 102.8 235.3 103.0 227.9 103.3 223.5 C 103.6 219.2 103.9 217.3 104.4 214.3 C 104.8 211.4 105.3 208.7 105.9 205.9 C 106.5 203.2 107.3 200.5 108.2 197.8 C 109.1 195.1 110.2 192.5 111.4 189.9 C 112.6 187.3 113.9 184.7 115.2 182.2 C 116.5 179.7 117.7 177.2 119.2 174.7 C 120.7 172.3 122.5 169.8 124.3 167.5 C 126.0 165.2 127.8 163.1 129.8 161.0 C 131.7 158.8 133.8 156.7 135.9 154.7 C 138.0 152.7 140.1 150.8 142.3 148.9 C 144.5 147.0 146.8 145.0 149.2 143.2 C 151.6 141.4 154.1 139.8 156.5 138.0 C 159.0 136.2 161.5 134.4 164.0 132.3 C 166.6 130.3 169.0 128.2 171.7 125.8 C 174.4 123.4 177.2 121.2 180.1 118.0 C 183.0 114.7 186.8 110.1 189.1 106.5 C 191.5 102.9 192.5 98.6 194.3 96.5 C 196.1 94.5 197.1 93.6 200.0 94.1 Z"/>
+      <clipPath id="mimi-body-clip"><use href="#mimi-body-shape"/></clipPath>
+      <linearGradient id="mimi-ombre" gradientUnits="userSpaceOnUse" x1="0" y1="94" x2="0" y2="347">
+        <stop offset="0" stop-color="#bcdbf5"/><stop offset=".5" stop-color="#a6d0f1"/><stop offset="1" stop-color="#93c6ef"/>
+      </linearGradient>
+      <filter id="mimi-wash" x="-20%" y="-20%" width="140%" height="140%">
+        <feTurbulence type="fractalNoise" baseFrequency="0.045" numOctaves="3" seed="31" result="noise"/>
+        <feDisplacementMap in="SourceGraphic" in2="noise" scale="24" xChannelSelector="R" yChannelSelector="G" result="wobble"/>
+        <feGaussianBlur in="wobble" stdDeviation="2.5"/>
+      </filter>
+      <filter id="mimi-mottle-dark" x="0" y="0" width="100%" height="100%">
+        <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="3" seed="41" result="n"/>
+        <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.42  0 0 0 0 0.68  0 0 0 0 0.9  3.2 0 0 0 -1.35"/>
+        <feGaussianBlur stdDeviation=".6"/>
+      </filter>
+      <filter id="mimi-mottle-light" x="0" y="0" width="100%" height="100%">
+        <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="3" seed="7" result="n"/>
+        <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.86  0 0 0 0 0.93  0 0 0 0 0.99  3.4 0 0 0 -1.55"/>
+        <feGaussianBlur stdDeviation="1.4"/>
+      </filter>
+      <filter id="handline" x="-5%" y="-5%" width="110%" height="110%">
+        <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="3" result="n"/>
+        <feDisplacementMap in="SourceGraphic" in2="n" scale="3" xChannelSelector="R" yChannelSelector="G"/>
+      </filter>
+  </defs>
+
+            <ellipse id="shadow" cx="200" cy="349" rx="100" ry="6" fill="#4a3a48" opacity=".1"/>
+            <g id="mimi" filter="url(#handline)">
+        <!-- fin arms sit behind the body; the body line runs straight past them, as in the reference -->
+        <path id="fin-left" d="M103.3 222.0 C 94.1 216.6 81.1 215.9 79.3 228.1 C 77.8 238.1 87.2 248.8 101.0 258.4 L 131.0 258.4 L 133.3 222.0 Z" fill="url(#mimi-ombre)" stroke="#4a3a48" stroke-width="3.4" stroke-linejoin="round"/>
+        <g id="arm-right"><path id="fin-right" d="M297.6 218.2 C 308.3 212.8 321.3 214.3 321.5 225.1 C 321.8 235.8 311.7 246.5 298.5 254.9 L 268.5 254.9 L 267.6 218.2 Z" fill="url(#mimi-ombre)" stroke="#4a3a48" stroke-width="3.4" stroke-linejoin="round"/></g>
+        <use href="#mimi-body-shape" fill="url(#mimi-ombre)"/>
+        <g clip-path="url(#mimi-body-clip)">
+          <rect x="60" y="80" width="280" height="280" filter="url(#mimi-mottle-dark)" opacity=".9"/>
+          <rect x="60" y="80" width="280" height="280" filter="url(#mimi-mottle-light)" opacity=".45"/>
+          <path filter="url(#mimi-wash)" fill="#7db9ea" opacity=".35" d="M40 290 C 90 276 130 296 170 286 C 210 276 236 292 270 282 C 300 274 330 280 360 270 L 360 380 L 40 380 Z"/>
+        </g>
+        <use href="#mimi-body-shape" fill="none" stroke="#4a3a48" stroke-width="3.4" stroke-linejoin="round"/>
+        
+        
+        <!-- face -->
+        <ellipse cx="159.9" cy="234.4" rx="13" ry="7" fill="#f8b2cf"/><path d="M150.9 239.4 l6 -10 M157.9 239.4 l6 -10 M164.9 239.4 l6 -10" stroke="#e0789e" stroke-width="2.4" stroke-linecap="round"/>
+        <ellipse cx="242.9" cy="234.4" rx="13" ry="7" fill="#f8b2cf"/><path d="M233.9 239.4 l6 -10 M240.9 239.4 l6 -10 M247.9 239.4 l6 -10" stroke="#e0789e" stroke-width="2.4" stroke-linecap="round"/>
+        <g id="eye-left" class="eye">
+          <ellipse cx="174.2" cy="210.7" rx="7.4" ry="10.6" fill="#3a2c3a"/>
+          <path d="M167.6 204 Q162.5 201 160.5 196.5 M166.8 209 Q161.5 208 157.5 205.5 M167.2 214 Q162.5 214.5 158.5 213" fill="none" stroke="#3a2c3a" stroke-width="2.4" stroke-linecap="round"/>
+        </g>
+        <g id="eye-right" class="eye">
+          <ellipse cx="228.6" cy="210.7" rx="7.4" ry="10.6" fill="#3a2c3a"/>
+          <path d="M235.2 204 Q240.3 201 242.3 196.5 M236 209 Q241.3 208 245.3 205.5 M235.6 214 Q240.3 214.5 244.3 213" fill="none" stroke="#3a2c3a" stroke-width="2.4" stroke-linecap="round"/>
+        </g>
+        <path id="mouth-smile" d="M192.2 232.8 C 193.5 242.5 210 242.5 211.2 232.8" fill="none" stroke="#4a3a48" stroke-width="3.4" stroke-linecap="round"/>
+        <path id="mouth-open" display="none" d="M191.5 232 C 193 248 210.5 248 212 232 Z" fill="#7a3546" stroke="#4a3a48" stroke-width="3" stroke-linejoin="round"/>
+        <!-- starfish, upper right -->
+        <g id="starfish">
+          <path d="M271.8 122.4 L270.7 138.3 L281.4 150.2 L265.9 154.1 L257.9 167.9 L249.5 154.4 L233.9 151.0 L244.1 138.8 L242.5 122.9 L257.3 128.9 Z" fill="#f6a7c2" stroke="#4a3a48" stroke-width="12" stroke-linejoin="round"/>
+          <path d="M271.8 122.4 L270.7 138.3 L281.4 150.2 L265.9 154.1 L257.9 167.9 L249.5 154.4 L233.9 151.0 L244.1 138.8 L242.5 122.9 L257.3 128.9 Z" fill="#f6a7c2" stroke="#f6a7c2" stroke-width="5.2" stroke-linejoin="round"/>
+          <path d="M257.5 142.9 L268.1 127.9 M257.5 142.9 L275.1 148.3 M257.5 142.9 L257.8 161.3 M257.5 142.9 L240.2 148.9 M257.5 142.9 L246.5 128.2" stroke="#ec7ea6" stroke-width="3" stroke-linecap="round" fill="none"/>
+          <circle cx="257.5" cy="142.9" r="3.2" fill="#ec7ea6"/>
+        </g>
+            </g>
+          
+</svg>
