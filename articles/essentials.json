@@ -2690,7 +2690,7 @@
       "publishOn": "2027-02-05",
       "template": "list",
       "tag": "BEFORE YOU GO",
-      "title": "6 Things to Prepare Before a Working Holiday Abroad",
+      "title": "5 Things to Prepare Before a Working Holiday Abroad",
       "readTime": "1 min read",
       "character": "ArticleWally",
       "blocks": [
@@ -2709,10 +2709,6 @@
         {
           "kind": "step",
           "text": "Make checking in on ANLY part of your daily routine."
-        },
-        {
-          "kind": "step",
-          "text": "When you change jobs or move, turn on location sharing for your check-ins so your Carers know you've arrived at a new place."
         },
         {
           "kind": "step",
