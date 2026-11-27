@@ -2313,6 +2313,7 @@
       "title": "How to Pick a Check-In Moment You Won't Forget",
       "readTime": "1 min read",
       "character": "ArticleWally",
+      "hero": "https://anly.app/articles/img/44-everyday-habit-check-in.png",
       "blocks": [
         {
           "kind": "step",
@@ -2340,6 +2341,7 @@
       "title": "After Retirement, Checking In Became Dad's Reason to Go Out",
       "readTime": "1 min read",
       "character": "ArticleCora",
+      "hero": "https://anly.app/articles/img/72-coral-park-morning.png",
       "blocks": [
         {
           "kind": "paragraph",
@@ -2375,6 +2377,7 @@
       "title": "When the Hurricane Flooded the House, Grandma Climbed to the Second Floor",
       "readTime": "1 min read",
       "character": "ArticleCora",
+      "hero": "https://anly.app/articles/img/73-after-the-typhoon.png",
       "blocks": [
         {
           "kind": "paragraph",
@@ -2547,6 +2550,7 @@
       "title": "5 Simple Steps to Help Your Parents Set Up ANLY",
       "readTime": "1 min read",
       "character": "ArticleWally",
+      "hero": "https://anly.app/articles/img/85-parents-video-setup.png",
       "blocks": [
         {
           "kind": "step",
@@ -2653,6 +2657,7 @@
       "title": "5 Things to Remember Before a Solo Road Trip",
       "readTime": "1 min read",
       "character": "ArticleWally",
+      "hero": "https://anly.app/articles/img/84-rest-stop-dusk.png",
       "blocks": [
         {
           "kind": "step",
