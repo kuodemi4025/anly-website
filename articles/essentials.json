@@ -2437,6 +2437,76 @@
       ]
     },
     {
+      "id": 93,
+      "publishOn": "2026-12-30",
+      "template": "tip",
+      "tag": "DID YOU KNOW?",
+      "title": "63 Million People in the U.S. Are Caring for Family",
+      "readTime": "1 min read",
+      "character": "ArticleMiu",
+      "blocks": [
+        {
+          "kind": "bigNumber",
+          "text": "63 million"
+        },
+        {
+          "kind": "paragraph",
+          "text": "According to the Caregiving in the US 2025 report released by AARP and the National Alliance for Caregiving, 63 million people in the U.S. are providing unpaid care to family members. That's about 1 in 4 adults, an increase of 20 million compared to 2015."
+        },
+        {
+          "kind": "paragraph",
+          "text": "The average age of a caregiver is 51, and 3 out of 5 are women. Many people juggle a job while caring for their parents, partners, or children."
+        },
+        {
+          "kind": "paragraph",
+          "text": "People who care for family often put their own needs last. They remember their parents' doctor appointments but forget that they need to rest, too."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Caregivers need care as well. Letting your siblings and friends know how you're doing today is the first step in protecting yourself."
+        },
+        {
+          "kind": "source",
+          "text": "Source: AARP and National Alliance for Caregiving, Caregiving in the US 2025"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "publishOn": "2027-01-01",
+      "template": "tip",
+      "tag": "DID YOU KNOW?",
+      "title": "There Are About 18 Million Digital Nomads in the U.S.",
+      "readTime": "1 min read",
+      "character": "ArticleMiu",
+      "blocks": [
+        {
+          "kind": "bigNumber",
+          "text": "18 million"
+        },
+        {
+          "kind": "paragraph",
+          "text": "According to the 2024 State of Independence research on digital nomads by MBO Partners, there are about 18 million digital nomads in the U.S.—people who bring their laptops and work while living in different cities or countries."
+        },
+        {
+          "kind": "paragraph",
+          "text": "This lifestyle is very liberating. You might be at a cafe in Chiang Mai today, and at a coworking space in Lisbon next month. But every time you move, the people around you change, too."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Your family and old friends often don't know where you are this month. And the new friends you make locally aren't close enough yet to notice if you don't show up."
+        },
+        {
+          "kind": "paragraph",
+          "text": "A nomadic life makes a constant connection even more essential. A daily check-in lets the people who care about you know you're doing well today, no matter what time zone you're in."
+        },
+        {
+          "kind": "source",
+          "text": "Source: MBO Partners, 2024 State of Independence research on digital nomads"
+        }
+      ]
+    },
+    {
       "id": 88,
       "publishOn": "2027-01-04",
       "template": "list",
@@ -2609,6 +2679,45 @@
       ]
     },
     {
+      "id": 89,
+      "publishOn": "2027-02-05",
+      "template": "list",
+      "tag": "BEFORE YOU GO",
+      "title": "6 Things to Prepare Before a Working Holiday Abroad",
+      "readTime": "1 min read",
+      "character": "ArticleWally",
+      "blocks": [
+        {
+          "kind": "step",
+          "text": "Make sure your insurance covers work-related injuries, not just travel."
+        },
+        {
+          "kind": "step",
+          "text": "Take photos of your passport, visa, and insurance policy, and save them in the cloud."
+        },
+        {
+          "kind": "step",
+          "text": "Give the name and address of each employer to a family member or friend."
+        },
+        {
+          "kind": "step",
+          "text": "Make checking in on ANLY part of your daily routine."
+        },
+        {
+          "kind": "step",
+          "text": "When you change jobs or move, turn on location sharing for your check-ins so your Carers know you've arrived at a new place."
+        },
+        {
+          "kind": "step",
+          "text": "Save local emergency numbers and the contact info for the U.S. embassy or consulate. You can also enroll in the State Department's Smart Traveler Enrollment Program (STEP)."
+        },
+        {
+          "kind": "paragraph",
+          "text": "A working holiday is a great adventure. Being well-prepared gives your family peace of mind while you explore the world."
+        }
+      ]
+    },
+    {
       "id": 49,
       "publishOn": "2027-02-10",
       "template": "list",
@@ -2687,6 +2796,111 @@
       ]
     },
     {
+      "id": 92,
+      "publishOn": "2027-02-19",
+      "template": "tip",
+      "tag": "DID YOU KNOW?",
+      "title": "1 in 6 People Worldwide Are Affected by Loneliness",
+      "readTime": "1 min read",
+      "character": "ArticleMiu",
+      "blocks": [
+        {
+          "kind": "bigNumber",
+          "text": "1 in 6"
+        },
+        {
+          "kind": "paragraph",
+          "text": "The World Health Organization (WHO) Commission on Social Connection released a report in 2025 stating that about 1 in 6 people worldwide are affected by loneliness."
+        },
+        {
+          "kind": "paragraph",
+          "text": "The report estimates that loneliness is linked to about 871,000 deaths every year, which is roughly 100 people per hour. Loneliness and social isolation are also associated with health issues like cardiovascular disease, diabetes, depression, and anxiety."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Loneliness isn't just an issue for older adults. According to the report, about 17% to 21% of young people aged 13 to 29 also report feeling lonely."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Easing loneliness doesn't always take a grand gesture. A message, a phone call, or a daily check-in can let someone know that people care about how they're doing today."
+        },
+        {
+          "kind": "source",
+          "text": "Source: World Health Organization, Commission on Social Connection report, June 2025"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "publishOn": "2027-02-26",
+      "template": "tip",
+      "tag": "DID YOU KNOW?",
+      "title": "Over 14 Million Older Adults Fall Every Year in the U.S.",
+      "readTime": "1 min read",
+      "character": "ArticleMiu",
+      "blocks": [
+        {
+          "kind": "bigNumber",
+          "text": "14 million"
+        },
+        {
+          "kind": "paragraph",
+          "text": "According to the U.S. Centers for Disease Control and Prevention (CDC), about 1 in 4 adults aged 65 and older fall each year in the U.S., totaling over 14 million people."
+        },
+        {
+          "kind": "paragraph",
+          "text": "A fall might sound like a minor issue, but the CDC also notes that about 37% of those who fall suffer injuries that require medical treatment or restrict their activity for at least one day."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Many falls happen at home: in the bathroom, the kitchen, on the stairs, or on the way to the toilet in the middle of the night. For older adults living alone, the real danger is often that no one knows they've fallen."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Preventing falls is important: install grab bars, keep walkways well-lit, and exercise regularly. But if a fall does happen, checking in once a day lets your family know something is wrong that very day, instead of several days later."
+        },
+        {
+          "kind": "source",
+          "text": "Source: U.S. Centers for Disease Control and Prevention (CDC), Older Adult Falls Data"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "publishOn": "2027-03-01",
+      "template": "list",
+      "tag": "GOOD TO KNOW",
+      "title": "Once a Day or Every 12 Hours? Choosing the Right Check-In Frequency",
+      "readTime": "1 min read",
+      "character": "ArticleWally",
+      "blocks": [
+        {
+          "kind": "step",
+          "text": "On regular days: Check in once a day. Make it a habit to check in around a time that fits your daily routine."
+        },
+        {
+          "kind": "step",
+          "text": "Traveling abroad or to remote areas: You can change the frequency to every 12 hours so your family gets more timely updates on your status."
+        },
+        {
+          "kind": "step",
+          "text": "If you have an irregular schedule: Build a habit of checking in at a later, more flexible time of day."
+        },
+        {
+          "kind": "step",
+          "text": "Taking a long flight or knowing you won't have a signal: Tell your Carers in advance, and check in again once you're back in an area with reception."
+        },
+        {
+          "kind": "step",
+          "text": "When you return to your normal life, remember to change the frequency back."
+        },
+        {
+          "kind": "paragraph",
+          "text": "There's no single right answer for how often to check in. The best frequency is the one you can keep up with consistently."
+        }
+      ]
+    },
+    {
       "id": 39,
       "publishOn": "2027-04-05",
       "template": "story",
@@ -2718,6 +2932,41 @@
         {
           "kind": "paragraph",
           "text": "\"I always thought the check-ins were just to help me sleep peacefully,\" Sarah said. \"That night, that one check-in told me exactly where to start looking.\""
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "publishOn": "2027-04-21",
+      "template": "tip",
+      "tag": "DID YOU KNOW?",
+      "title": "1 in 5 Employees Felt Lonely for Much of Yesterday",
+      "readTime": "1 min read",
+      "character": "ArticleMiu",
+      "blocks": [
+        {
+          "kind": "bigNumber",
+          "text": "1 in 5"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Gallup's State of the Global Workplace 2024 report surveyed employees worldwide and found that 20% reported feeling lonely for a lot of the previous day."
+        },
+        {
+          "kind": "paragraph",
+          "text": "This is even more noticeable among fully remote workers: 25% feel lonely, significantly higher than the 16% of those who work fully on-site. Younger employees under 35 are also more likely to feel lonely than older workers."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Working from home offers freedom, but it can also mean going a whole day without talking to anyone. When you live alone and work alone, you need those small connections even more."
+        },
+        {
+          "kind": "paragraph",
+          "text": "It doesn't have to be a bustling social event. A daily check-in to let your friends and family know you're doing well today is a great start."
+        },
+        {
+          "kind": "source",
+          "text": "Source: Gallup, State of the Global Workplace 2024"
         }
       ]
     }
