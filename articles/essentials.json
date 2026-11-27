@@ -2141,6 +2141,7 @@
       "title": "Three Siblings Teaming Up to Care for Their Parents Back Home",
       "readTime": "1 min read",
       "character": "ArticleCora",
+      "hero": "https://anly.app/articles/img/81-three-siblings-home.png",
       "blocks": [
         {
           "kind": "paragraph",
@@ -2176,6 +2177,7 @@
       "title": "Living Alone? 5 Rules for Who Should Get Your Spare Key",
       "readTime": "1 min read",
       "character": "ArticleWally",
+      "hero": "https://anly.app/articles/img/83-spare-keys.png",
       "blocks": [
         {
           "kind": "step",
@@ -2211,6 +2213,7 @@
       "title": "Every Day, About 113 Older Americans Die After a Fall",
       "readTime": "1 min read",
       "character": "ArticleMiu",
+      "hero": "https://anly.app/articles/img/13-home-fall-safety.png",
       "blocks": [
         {
           "kind": "bigNumber",
@@ -2242,6 +2245,7 @@
       "title": "Her Husband Was Relocated to Vietnam, and She Caught a High Fever Alone with the Baby",
       "readTime": "1 min read",
       "character": "ArticleCora",
+      "hero": "https://anly.app/articles/img/76-neighbor-and-baby.png",
       "blocks": [
         {
           "kind": "paragraph",
@@ -2281,6 +2285,7 @@
       "title": "3 Small Things You Can Do on a Bad Day",
       "readTime": "1 min read",
       "character": "ArticleWally",
+      "hero": "https://anly.app/articles/img/18-rainy-day-sofa.png",
       "blocks": [
         {
           "kind": "step",
